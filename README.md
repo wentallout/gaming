@@ -13,6 +13,7 @@ I play mostly PC games.
 
 ## Finished
 
+- Risk of Rain 1, Risk of Rain 2
 - ULTRAKILL ⭐
 - BioShock Infinite ⭐
 - Yakuza Kiwami
