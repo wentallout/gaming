@@ -8,7 +8,8 @@ I play mostly PC games.
 - God of War, God of War Ragnarok
 - The Witcher 3: Wild Hunt
 - Trepang2
-- Cyberpunk
+- Cyberpunk 2077
+- Superliminal
 
 ## Finished
 
