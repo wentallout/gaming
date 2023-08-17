@@ -29,6 +29,8 @@ I play mostly PC games.
 - Fate/EXTELLA LINK
 - OTXO
 - Ys IX: Monstrum Nox -> very underrated
+- Skul: The Hero Slayer
+- Bayonnetta 1,2,3
 
 ## Multiplayer
 
