@@ -10,6 +10,7 @@ I play mostly PC games.
 - Trepang2
 - Cyberpunk 2077
 - Superliminal
+- Viewfinder
 
 ## Finished
 
@@ -27,6 +28,7 @@ I play mostly PC games.
 - Control (might replay)
 - Fate/EXTELLA LINK
 - OTXO
+- Ys IX: Monstrum Nox -> very underrated
 
 ## Multiplayer
 
