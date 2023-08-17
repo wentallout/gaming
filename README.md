@@ -12,6 +12,7 @@ I play mostly PC games.
 
 ## Finished
 
+- ULTRAKILL ⭐
 - BioShock Infinite ⭐
 - Yakuza Kiwami
 - Katana ZERO ⭐
