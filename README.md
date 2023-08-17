@@ -4,7 +4,7 @@
 
 - Yakuza Kiwami
 - Katana ZERO ⭐
-- Hotline Miami ⭐
+- Hotline Miami 1,2 ⭐
 - Dishonored 1,2
 - Borderlands 1,2,3
 
