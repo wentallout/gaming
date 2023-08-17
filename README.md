@@ -6,6 +6,7 @@ I play mostly PC games.
 
 - Deathloop
 - God of War, God of War Ragnarok
+- The Witcher 3: Wild Hunt
 
 ## Finished
 
