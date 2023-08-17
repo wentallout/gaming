@@ -14,6 +14,7 @@ I play mostly PC games.
 
 ## Finished
 
+- Hades ⭐⭐⭐⭐⭐
 - Risk of Rain 1, Risk of Rain 2
 - ULTRAKILL ⭐
 - BioShock Infinite ⭐
