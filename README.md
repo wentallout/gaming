@@ -14,10 +14,16 @@ I play mostly PC games.
 - Hotline Miami 1,2 ⭐
 - Dishonored 1,2
 - Borderlands 1,2,3
-- Elder Scrolls V: Skyrim
+
 - Doom, Doom Eternal ⭐
 - DYNASTY WARRIORS 8: Xtreme Legends
 
-## Skipped/Removed
+
+## Games I think are fun but buggy
+
+- Fallout: New Vegas
+- Elder Scrolls V: Skyrim
+
+## Skipped/Removed due to annoyance
 
 - Nioh 2: I fucking hate this game
