@@ -32,6 +32,7 @@ I play mostly PC games.
 - Skul: The Hero Slayer
 - Bayonnetta 1,2,3
 - Need for Speed™ Most Wanted ⭐
+- Terraria
 
 ## Multiplayer
 
