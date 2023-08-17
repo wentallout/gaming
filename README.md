@@ -15,7 +15,7 @@ I play mostly PC games.
 - Dishonored 1,2
 - Borderlands 1,2,3
 
-- Doom, Doom Eternal ⭐
+- Doom (2016), Doom Eternal ⭐
 - DYNASTY WARRIORS 8: Xtreme Legends
 
 
