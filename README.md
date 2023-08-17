@@ -24,6 +24,7 @@ I play mostly PC games.
 - Half-Life 2
 - Control (might replay)
 - Fate/EXTELLA LINK
+- OTXO
 
 ## Multiplayer
 
