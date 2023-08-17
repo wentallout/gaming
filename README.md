@@ -14,6 +14,7 @@
 - Borderlands 1,2,3
 - Elder Scrolls V: Skyrim
 - Doom, Doom Eternal ⭐
+- DYNASTY WARRIORS 8: Xtreme Legends
 
 ## Skipped/Removed
 
