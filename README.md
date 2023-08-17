@@ -17,7 +17,12 @@ I play mostly PC games.
 - Borderlands 1,2,3
 - Doom (2016), Doom Eternal ⭐
 - DYNASTY WARRIORS 8: Xtreme Legends
+- Half-Life 2
 
+## Multiplayer
+
+- Wild Rift ⭐
+- CS:GO
 
 ## Fun but buggy/requires mods
 
