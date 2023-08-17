@@ -11,6 +11,8 @@
 - Hotline Miami 1,2 ⭐
 - Dishonored 1,2
 - Borderlands 1,2,3
+- Elder Scrolls V: Skyrim
+- Doom, Doom Eternal ⭐
 
 ## Skipped/Removed
 
