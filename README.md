@@ -18,6 +18,7 @@ I play mostly PC games.
 - Doom (2016), Doom Eternal ⭐
 - DYNASTY WARRIORS 8: Xtreme Legends
 - Half-Life 2
+- Control (might replay)
 
 ## Multiplayer
 
