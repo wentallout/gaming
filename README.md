@@ -5,8 +5,8 @@
 - Yakuza Kiwami
 - Katana ZERO ⭐
 - Hotline Miami ⭐
-- Dishonored 1
-- Dishonored 2
+- Dishonored 1,2
+- Borderlands 1,2,3
 
 ## Skipped/Removed
 
