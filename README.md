@@ -1,5 +1,9 @@
 # iplayvideogames
 
+## Interested
+
+- Deathloop
+
 ## Finished
 
 - Yakuza Kiwami
