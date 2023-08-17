@@ -23,6 +23,7 @@ I play mostly PC games.
 - DYNASTY WARRIORS 8: Xtreme Legends
 - Half-Life 2
 - Control (might replay)
+- Fate/EXTELLA LINK
 
 ## Multiplayer
 
