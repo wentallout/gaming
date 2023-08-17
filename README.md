@@ -19,7 +19,7 @@ I play mostly PC games.
 - DYNASTY WARRIORS 8: Xtreme Legends
 
 
-## Games I think are fun but buggy
+## Fun but buggy/requires mods
 
 - Fallout: New Vegas
 - Elder Scrolls V: Skyrim
