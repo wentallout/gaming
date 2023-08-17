@@ -1,5 +1,7 @@
 # iplayvideogames
 
+I play mostly PC games.
+
 ## Interested
 
 - Deathloop
