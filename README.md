@@ -4,6 +4,7 @@ I play mostly PC games.
 
 ## Interested
 
+- Wolfenstein II: The New Colossus
 - Deathloop
 - God of War, God of War Ragnarok
 - The Witcher 3: Wild Hunt
