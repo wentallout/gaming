@@ -4,6 +4,7 @@
 
 - Yakuza
 - Katana ZERO ⭐
+- Hotline Miami ⭐
 
 ## Skipped/Removed
 
