@@ -3,6 +3,7 @@
 ## Interested
 
 - Deathloop
+- God of War, God of War Ragnarok
 
 ## Finished
 
