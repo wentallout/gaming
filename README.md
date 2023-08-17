@@ -3,6 +3,7 @@
 ## Finished
 
 - Yakuza
+- Katana ZERO ⭐
 
 ## Skipped/Removed
 
