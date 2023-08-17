@@ -31,6 +31,7 @@ I play mostly PC games.
 - Ys IX: Monstrum Nox -> very underrated
 - Skul: The Hero Slayer
 - Bayonnetta 1,2,3
+- Need for Speed™ Most Wanted ⭐
 
 ## Multiplayer
 
