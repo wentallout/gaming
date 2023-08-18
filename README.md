@@ -46,8 +46,8 @@ I play mostly PC games.
 ## Fun but buggy/requires mods
 
 - Fallout: New Vegas
-- Elder Scrolls V: Skyrim
-
+- The Elder Scrolls V: Skyrim Special Edition
+- 
 ## Skipped
 
 - Nioh 2: I fucking hate this game
