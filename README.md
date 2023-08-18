@@ -48,7 +48,7 @@ I play mostly PC games.
 - Fallout: New Vegas
 - Elder Scrolls V: Skyrim
 
-## Skipped/Removed due to annoyance
+## Skipped
 
 - Nioh 2: I fucking hate this game
 - Dead Cells: horrible combat, play like a chore
