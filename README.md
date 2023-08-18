@@ -52,3 +52,4 @@ I play mostly PC games.
 - Nioh 2: I fucking hate this game
 - Dead Cells: horrible combat, play like a chore
 - Minecraft 😂
+- Fortnite
