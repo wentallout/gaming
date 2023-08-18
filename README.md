@@ -8,13 +8,14 @@ I play mostly PC games.
 - Deathloop
 - God of War, God of War Ragnarok
 - The Witcher 3: Wild Hunt
-- Trepang2
+
 - Cyberpunk 2077
 - Superliminal
 - Viewfinder
 
 ## Completed
 
+- Trepang2
 - Hades ⭐⭐⭐⭐⭐
 - Risk of Rain 1, Risk of Rain 2
 - ULTRAKILL ⭐
