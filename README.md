@@ -13,7 +13,7 @@ I play mostly PC games.
 - Superliminal
 - Viewfinder
 
-## Finished
+## Completed
 
 - Hades ⭐⭐⭐⭐⭐
 - Risk of Rain 1, Risk of Rain 2
@@ -40,6 +40,7 @@ I play mostly PC games.
 
 - Wild Rift ⭐
 - CS:GO
+- Crusader Quest
 
 ## Fun but buggy/requires mods
 
