@@ -8,7 +8,7 @@ I play mostly PC games.
 - Deathloop
 - God of War, God of War Ragnarok
 - The Witcher 3: Wild Hunt
-
+- Remnant 2
 - Cyberpunk 2077
 - Superliminal
 - Viewfinder
