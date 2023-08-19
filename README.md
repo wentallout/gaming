@@ -30,7 +30,6 @@ I play mostly PC games.
 - Half-Life 2
 - Control
 - OTXO
-
 - Ys IX: Monstrum Nox
 - Skul: The Hero Slayer
 - Bayonnetta 1,2,3
@@ -55,4 +54,5 @@ I play mostly PC games.
 - Nioh 2: I fucking hate this game
 - Dead Cells: horrible combat, play like a chore
 - Minecraft 😂
-- Fortnite
+- Fortnite 😂
+- Valorant 😂
