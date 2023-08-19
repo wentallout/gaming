@@ -30,11 +30,14 @@ I play mostly PC games.
 - Half-Life 2
 - Control
 - OTXO
-- Ys IX: Monstrum Nox -> very underrated
+
+- Ys IX: Monstrum Nox
 - Skul: The Hero Slayer
 - Bayonnetta 1,2,3
 - Need for Speed™ Most Wanted ⭐
 - Terraria
+- Cave Story+ ⭐
+- Touhou Series: https://en.touhouwiki.net/wiki/Touhou_Wiki
 
 ## Multiplayer
 
