@@ -15,7 +15,7 @@ I play mostly PC games.
 
 ## Completed
 
-- Trepang2
+- Trepang2 ⭐
 - Hades ⭐⭐⭐⭐⭐
 - Risk of Rain 1, Risk of Rain 2
 - ULTRAKILL ⭐
@@ -29,7 +29,6 @@ I play mostly PC games.
 - DYNASTY WARRIORS 8: Xtreme Legends
 - Half-Life 2
 - Control
-- Fate/EXTELLA LINK
 - OTXO
 - Ys IX: Monstrum Nox -> very underrated
 - Skul: The Hero Slayer
