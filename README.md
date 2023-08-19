@@ -49,7 +49,7 @@ I play mostly PC games.
 
 - Fallout: New Vegas
 - The Elder Scrolls V: Skyrim Special Edition
-- 
+
 ## Skipped
 
 - Nioh 2: I fucking hate this game
