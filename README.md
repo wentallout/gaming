@@ -15,6 +15,7 @@ I play mostly PC games.
 
 ## Completed
 
+- Far Cry 4
 - Trepang2 ⭐
 - Hades ⭐⭐⭐⭐⭐
 - Risk of Rain 1, Risk of Rain 2
