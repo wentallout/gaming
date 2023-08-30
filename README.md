@@ -15,6 +15,7 @@ I play mostly PC games.
 
 ## Completed
 
+- Resident Evil 6
 - Far Cry 4
 - Trepang2 ⭐
 - Hades ⭐⭐⭐⭐⭐
