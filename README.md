@@ -15,8 +15,9 @@ I play mostly PC games.
 
 ## Completed
 
+- Wolfenstein: The New Order
 - Resident Evil 6
-- Far Cry 4
+
 - Trepang2 ⭐
 - Hades ⭐⭐⭐⭐⭐
 - Risk of Rain 1, Risk of Rain 2
@@ -46,14 +47,15 @@ I play mostly PC games.
 - CS:GO
 - Crusader Quest
 
-## Fun but buggy/requires mods
+## Fun but requires mods
 
 - Fallout: New Vegas
 - The Elder Scrolls V: Skyrim Special Edition
 
 ## Skipped
 
-- Nioh 2: I fucking hate this game
+- Far Cry 4: annoying mods
+- Nioh 2: I hate this game with a passion
 - Dead Cells: horrible combat, play like a chore
 - Minecraft 😂
 - Fortnite 😂
