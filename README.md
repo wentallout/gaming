@@ -17,7 +17,7 @@ I play mostly PC games.
 
 - Wolfenstein: The New Order
 - Resident Evil 6
-
+- Dying Light ⭐⭐⭐⭐⭐
 - Trepang2 ⭐
 - Hades ⭐⭐⭐⭐⭐
 - Risk of Rain 1, Risk of Rain 2
