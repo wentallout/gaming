@@ -1,6 +1,6 @@
 # iplayvideogames
 
-I play mostly PC games.
+Mostly PC games, cuz Consoles are wack.
 
 ## Interested
 
