@@ -41,6 +41,14 @@ I play mostly PC games.
 - Cave Story+ ⭐
 - Touhou Series: https://en.touhouwiki.net/wiki/Touhou_Wiki
 
+## Garbage
+
+- Code Vein
+- Genshin Impact 😂
+- Minecraft 😂
+- Fortnite 😂
+- Valorant 😂
+
 ## Multiplayer
 
 - Wild Rift ⭐
@@ -57,6 +65,4 @@ I play mostly PC games.
 - Far Cry 4: annoying mods
 - Nioh 2: I hate this game with a passion
 - Dead Cells: horrible combat, play like a chore
-- Minecraft 😂
-- Fortnite 😂
-- Valorant 😂
+
