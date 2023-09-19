@@ -60,9 +60,10 @@ Mostly PC games, cuz Consoles are wack.
 - Fallout: New Vegas
 - The Elder Scrolls V: Skyrim Special Edition
 
-## Skipped
+## Gave up half way
 
+- Tunguska: The Visitation
 - Far Cry 4: annoying mods
-- Nioh 2: I hate this game with a passion
+- Nioh 2: Path finding problems
 - Dead Cells: horrible combat, play like a chore
 
