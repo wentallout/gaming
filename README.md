@@ -15,6 +15,7 @@ Mostly PC games, cuz Consoles are wack.
 
 ## Completed
 
+- The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐
 - Wolfenstein: The New Order
 - Resident Evil 6
 - Dying Light ⭐⭐⭐⭐⭐
