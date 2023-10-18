@@ -24,7 +24,7 @@ Mostly PC games, cuz Consoles are wack.
 - Risk of Rain 1, Risk of Rain 2
 - ULTRAKILL ⭐
 - BioShock Infinite ⭐
-- Yakuza Kiwami
+- Yakuza Kiwami, Yakuza: Like a Dragon
 - Katana ZERO ⭐
 - Hotline Miami 1,2 ⭐
 - Dishonored 1,2
