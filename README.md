@@ -19,10 +19,10 @@ Mostly PC games, cuz Consoles are wack.
 - Wolfenstein: The New Order
 - Resident Evil 6
 - Dying Light ⭐⭐⭐⭐⭐
-- Trepang2 ⭐
+- Trepang2 ⭐⭐⭐
 - Hades ⭐⭐⭐⭐⭐
 - Risk of Rain 1, Risk of Rain 2
-- ULTRAKILL ⭐
+- ULTRAKILL ⭐⭐⭐
 - BioShock Infinite ⭐
 - Yakuza Kiwami, Yakuza: Like a Dragon
 - Katana ZERO ⭐
@@ -37,10 +37,11 @@ Mostly PC games, cuz Consoles are wack.
 - Ys IX: Monstrum Nox
 - Skul: The Hero Slayer
 - Bayonnetta 1,2,3
-- Need for Speed™ Most Wanted ⭐
+- Need for Speed™ Most Wanted ⭐⭐⭐
 - Terraria
 - Cave Story+ ⭐
 - Touhou Series: https://en.touhouwiki.net/wiki/Touhou_Wiki
+- Tomb Raider, Rise of the Tomb Raider, Shadow of the Tomb Raider ⭐⭐⭐⭐⭐
 
 ## Garbage
 
