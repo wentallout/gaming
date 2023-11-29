@@ -1,7 +1,3 @@
-# iplayvideogames
-
-Mostly PC games, cuz Consoles are wack.
-
 ## 🔥 Interested
 
 - Wolfenstein II: The New Colossus
