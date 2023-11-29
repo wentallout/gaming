@@ -2,22 +2,22 @@
 
 Mostly PC games, cuz Consoles are wack.
 
-## Interested
+## 🔥 Interested
 
 - Wolfenstein II: The New Colossus
 - Deathloop
 - God of War, God of War Ragnarok
 - The Witcher 3: Wild Hunt
-- Remnant 2
 - Cyberpunk 2077
 - Superliminal
 - Viewfinder
 
-## Completed
+## ⭐ Completed
 
+- Remnant 2
 - The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐
 - Wolfenstein: The New Order
-- Resident Evil 6
+- Resident Evil 6, Resident Evil 2 remake
 - Dying Light ⭐⭐⭐⭐⭐
 - Trepang2 ⭐⭐⭐
 - Hades ⭐⭐⭐⭐⭐
@@ -43,18 +43,18 @@ Mostly PC games, cuz Consoles are wack.
 - Touhou Series: https://en.touhouwiki.net/wiki/Touhou_Wiki
 - Tomb Raider, Rise of the Tomb Raider, Shadow of the Tomb Raider ⭐⭐⭐⭐⭐
 
-## Garbage
+## 🗑️ Garbage
 
 - Code Vein
-- Genshin Impact 😂
-- Minecraft 😂
-- Fortnite 😂
-- Valorant 😂
+- Genshin Impact 
+- Minecraft 
+- Fortnite
+- Valorant
 
 ## Multiplayer
 
 - Wild Rift ⭐
-- CS:GO
+- CS:GO / CS2
 - Crusader Quest
 
 ## Fun but requires mods
