@@ -65,3 +65,7 @@
 - Nioh 2: Path finding problems
 - Dead Cells: horrible combat, play like a chore
 
+## History of video games
+
+https://en.wikibooks.org/wiki/History_of_video_games
+
