@@ -10,6 +10,7 @@
 
 ## ⭐ Completed
 
+- Shadow Warrior 3
 - Remnant 2
 - The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐
 - Wolfenstein: The New Order
