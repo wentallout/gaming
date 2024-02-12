@@ -1,3 +1,7 @@
+## Wishlist
+
+https://store.steampowered.com/wishlist/id/wentallout
+
 ## 🔥 Interested
 
 - Wolfenstein II: The New Colossus
