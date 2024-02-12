@@ -5,6 +5,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 ## Playing
 
 - Granblue Fantasy: Relink ⭐⭐⭐⭐⭐
+(Guide: https://docs.google.com/document/d/1EA5FDUojO0antVO18JpvGYJTnRl0FjQJjJ24rv57kzQ/edit#heading=h.hlz552637wuh)
 
 ## 🔥 Interested
 
