@@ -2,6 +2,10 @@
 
 https://store.steampowered.com/wishlist/id/wentallout
 
+## Playing
+
+- Granblue Fantasy: Relink ⭐⭐⭐⭐⭐
+
 ## 🔥 Interested
 
 - Wolfenstein II: The New Colossus
