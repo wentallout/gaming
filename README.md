@@ -5,7 +5,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 ## Playing
 
 - Granblue Fantasy: Relink ⭐⭐⭐⭐⭐
-(Guide: https://docs.google.com/document/d/1EA5FDUojO0antVO18JpvGYJTnRl0FjQJjJ24rv57kzQ/edit#heading=h.hlz552637wuh)
+
 
 ## 🔥 Interested
 
@@ -17,10 +17,11 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Superliminal
 - Viewfinder
 
-## ⭐ Completed
+## 🏁 Completed
 
-- Shadow Warrior 3
-- Remnant 2
+- Hades 2 ⭐⭐⭐⭐⭐
+- Shadow Warrior 3 ⭐ kinda lackluster
+- Remnant 2 ⭐
 - The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐
 - Wolfenstein: The New Order
 - Resident Evil 6, Resident Evil 2 remake
@@ -68,7 +69,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Fallout: New Vegas
 - The Elder Scrolls V: Skyrim Special Edition
 
-## Gave up half way
+## I gave up
 
 - Tunguska: The Visitation
 - Far Cry 4: annoying mods
