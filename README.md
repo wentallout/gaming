@@ -51,7 +51,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Touhou Series: https://en.touhouwiki.net/wiki/Touhou_Wiki
 - Tomb Raider, Rise of the Tomb Raider, Shadow of the Tomb Raider ⭐⭐⭐⭐⭐
 
-## 🗑️ Garbage
+## 🗑️ Really don't care about these
 
 - Code Vein
 - Genshin Impact 
@@ -63,7 +63,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 - The Finals ⭐⭐⭐⭐ 
 - Wild Rift ⭐
-- CS:GO / CS2
+- CS:GO / Counter Strike 2: I think people who play this just want money from knives
 - Crusader Quest
 
 ## Fun but requires mods
