@@ -11,7 +11,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 - Wolfenstein II: The New Colossus
 - Deathloop
-- God of War, God of War Ragnarok
+- God of War: Ragnarok
 - The Witcher 3: Wild Hunt
 - Cyberpunk 2077
 - Superliminal
@@ -20,6 +20,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 ## 🏁 Completed
 
 - Hades 2 ⭐⭐⭐⭐⭐
+- God of War ⭐⭐⭐⭐⭐
 - Shadow Warrior 3 ⭐ kinda lackluster
 - Remnant 2 ⭐
 - The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐
@@ -38,7 +39,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Borderlands 1,2,3
 - Doom (2016), Doom Eternal ⭐
 - DYNASTY WARRIORS 8: Xtreme Legends
-- Half-Life 2
+- Half-Life 2 ⭐⭐⭐
 - Control
 - OTXO
 - Ys IX: Monstrum Nox
@@ -46,7 +47,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Bayonnetta 1,2,3
 - Need for Speed™ Most Wanted ⭐⭐⭐
 - Terraria
-- Cave Story+ ⭐
+- Cave Story+ ⭐⭐⭐
 - Touhou Series: https://en.touhouwiki.net/wiki/Touhou_Wiki
 - Tomb Raider, Rise of the Tomb Raider, Shadow of the Tomb Raider ⭐⭐⭐⭐⭐
 
@@ -60,6 +61,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 ## Multiplayer
 
+- The Finals ⭐⭐⭐⭐ 
 - Wild Rift ⭐
 - CS:GO / CS2
 - Crusader Quest
