@@ -10,6 +10,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 ## 🔥 Interested
 
+- Red Dead Redemption 2
 - Wolfenstein II: The New Colossus
 - Deathloop
 - God of War: Ragnarok
