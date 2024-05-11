@@ -51,6 +51,18 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Touhou Series: https://en.touhouwiki.net/wiki/Touhou_Wiki
 - Tomb Raider, Rise of the Tomb Raider, Shadow of the Tomb Raider ⭐⭐⭐⭐⭐
 
+## 🪩 Retro
+
+- Metal Slug 3 (2000)
+- Metal Slug 5 (2004)
+- Aero Fighters 2
+- Shock Troopers
+- Blazing Star (1998)
+- WindJammers (1994)
+- Neo Bomberman (1997)
+- Top Hunter: Roddy & Cathy (1994)
+- Spinmaster (1993)
+
 ## 🗑️ Really don't care about these
 
 - Code Vein
