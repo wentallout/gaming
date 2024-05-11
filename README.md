@@ -1,4 +1,4 @@
-## Wishlist
+## My Steam Wishlist
 
 https://store.steampowered.com/wishlist/id/wentallout
 
