@@ -25,7 +25,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Remnant 2 ⭐
 - The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐
 - Wolfenstein: The New Order
-- Resident Evil 6, Resident Evil 2 remake
+- Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 (skipped DLCs)
 - Dying Light ⭐⭐⭐⭐⭐
 - Trepang2 ⭐⭐⭐
 - Hades ⭐⭐⭐⭐⭐
