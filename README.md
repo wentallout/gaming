@@ -4,6 +4,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 ## Playing
 
+- Hades 2 ⭐⭐⭐⭐⭐
 - Granblue Fantasy: Relink ⭐⭐⭐⭐⭐
 
 
@@ -19,7 +20,6 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 ## 🏁 Completed
 
-- Hades 2 ⭐⭐⭐⭐⭐
 - God of War ⭐⭐⭐⭐⭐
 - Shadow Warrior 3 ⭐ kinda lackluster
 - Remnant 2 ⭐
