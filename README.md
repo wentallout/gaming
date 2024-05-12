@@ -23,6 +23,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 - God of War ⭐⭐⭐⭐⭐
 - Shadow Warrior 3 ⭐ kinda lackluster
+- Devil May Cry 5 ⭐⭐⭐ (only Vergil is fun tbh)
 - Remnant 2 ⭐
 - The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐
 - Wolfenstein: The New Order
