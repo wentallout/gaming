@@ -1,6 +1,10 @@
 # 🎮 Khoa's favorite video games list (Updated June 2024)
 
-## My Steam Wishlist
+## Steam Profile
+
+https://steamcommunity.com/id/wentallout
+
+## Steam Wishlist
 
 https://store.steampowered.com/wishlist/id/wentallout
 
