@@ -6,9 +6,9 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 ## 😍 Playing
 
-- Warframe ⭐⭐⭐⭐⭐
-- Hades 2 ⭐⭐⭐⭐⭐
-- Granblue Fantasy: Relink ⭐⭐⭐⭐⭐
+- Warframe ⭐⭐⭐⭐⭐ - Space ninjas, need I say more?
+- Hades 2 ⭐⭐⭐⭐⭐ - new masterpiece like Hades 1
+
 
 ## Multiplayer
 
@@ -32,6 +32,8 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 ## 🏁 Completed
 
+- Granblue Fantasy: Relink ⭐⭐⭐⭐⭐ - Good combat
+- Hades ⭐⭐⭐⭐⭐
 - God of War ⭐⭐⭐⭐⭐
 - Devil May Cry 5 ⭐⭐⭐⭐⭐ (Vergil only)
 - Shadow Warrior 3 ⭐ kinda lackluster
@@ -40,7 +42,6 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 (skipped DLCs)
 - Dying Light ⭐⭐⭐⭐⭐
 - Trepang2 ⭐⭐⭐
-- Hades ⭐⭐⭐⭐⭐
 - Risk of Rain 1, Risk of Rain 2
 - ULTRAKILL ⭐⭐⭐
 - BioShock Infinite ⭐
