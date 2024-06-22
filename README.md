@@ -1,4 +1,4 @@
-# 🎮 Khoa's favorite video games list
+# 🎮 Khoa's favorite video games list (Updated June 2024)
 
 ## My Steam Wishlist
 
