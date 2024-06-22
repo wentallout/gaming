@@ -2,11 +2,19 @@
 
 https://store.steampowered.com/wishlist/id/wentallout
 
-## Playing
+## 😍 Playing
 
 - Warframe ⭐⭐⭐⭐⭐
 - Hades 2 ⭐⭐⭐⭐⭐
 - Granblue Fantasy: Relink ⭐⭐⭐⭐⭐
+
+## Multiplayer
+
+- MapleStory
+- The Finals ⭐⭐⭐⭐ 
+- Wild Rift ⭐⭐⭐
+- Counter Strike 2 / CS:GO
+- Crusader Quest
 
 
 ## 🔥 Interested
@@ -23,9 +31,8 @@ https://store.steampowered.com/wishlist/id/wentallout
 ## 🏁 Completed
 
 - God of War ⭐⭐⭐⭐⭐
+- Devil May Cry 5 ⭐⭐⭐⭐⭐ (Vergil only)
 - Shadow Warrior 3 ⭐ kinda lackluster
-- Devil May Cry 5 ⭐⭐⭐ (only Vergil is fun tbh)
-- Remnant 2 ⭐
 - The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐
 - Wolfenstein: The New Order
 - Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 (skipped DLCs)
@@ -40,18 +47,19 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Hotline Miami 1,2 ⭐
 - Dishonored 1,2
 - Borderlands 1,2,3
-- Doom (2016), Doom Eternal ⭐
+- Doom (2016), Doom Eternal ⭐⭐⭐⭐⭐
+- Remnant 2 ⭐
 - DYNASTY WARRIORS 8: Xtreme Legends
 - Half-Life 2 ⭐⭐⭐
-- Control
-- OTXO
+- Control ⭐⭐⭐⭐⭐
+- OTXO ⭐⭐⭐
 - Ys IX: Monstrum Nox
 - Skul: The Hero Slayer
 - Bayonnetta 1,2,3
 - Need for Speed™ Most Wanted ⭐⭐⭐
-- Terraria
+- Terraria ⭐⭐⭐
 - Cave Story+ ⭐⭐⭐
-- Touhou Series: https://en.touhouwiki.net/wiki/Touhou_Wiki
+- Touhou Series
 - Tomb Raider, Rise of the Tomb Raider, Shadow of the Tomb Raider ⭐⭐⭐⭐⭐
 
 ## 🪩 Retro
@@ -66,21 +74,6 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Top Hunter: Roddy & Cathy (1994)
 - Spinmaster (1993)
 
-## 🗑️ Really don't care about these
-
-- Code Vein
-- Genshin Impact 
-- Minecraft 
-- Fortnite
-- Valorant
-
-## Multiplayer
-
-- The Finals ⭐⭐⭐⭐ 
-- Wild Rift ⭐
-- CS:GO / Counter Strike 2: I think people who play this just want money from knives
-- Crusader Quest
-
 ## Fun but requires mods
 
 - Fallout: New Vegas
@@ -92,6 +85,12 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Far Cry 4: annoying mods
 - Nioh 2: Path finding problems
 - Dead Cells: horrible combat, play like a chore
+- Code Vein
+- Genshin Impact 
+- Minecraft
+- Fortnite
+- Valorant
+
 
 ## History of video games
 
