@@ -6,29 +6,29 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 ## 😍 Playing
 
-- Warframe ⭐⭐⭐⭐⭐ - Space ninjas, need I say more?
-- Hades 2 ⭐⭐⭐⭐⭐ - new masterpiece like Hades 1
+- Warframe (PC) ⭐⭐⭐⭐⭐ - Space ninjas, need I say more?
+- Hades 2 (PC) ⭐⭐⭐⭐⭐ - New masterpiece like Hades 1
 
 
 ## 👯 Multiplayer
 
-- MapleStory
-- The Finals ⭐⭐⭐⭐ 
-- Wild Rift ⭐⭐⭐
-- Counter Strike 2 / CS:GO
-- Crusader Quest
+- MapleStory (PC)
+- The Finals (PC) ⭐⭐⭐⭐ 
+- Wild Rift (PC) ⭐⭐⭐ - fair but bad team will make you mad
+- Counter Strike 2 / CS:GO (PC)
+- Crusader Quest (Mobile) ⭐⭐⭐⭐⭐ - not Pay2Win, very good
 
 
 ## 🔥 Interested
 
-- Red Dead Redemption 2
-- Wolfenstein II: The New Colossus
-- Deathloop
-- God of War: Ragnarok
-- The Witcher 3: Wild Hunt
-- Cyberpunk 2077
-- Superliminal
-- Viewfinder
+- Red Dead Redemption 2 (PC) - Massive masterpiece, didn't have time to play
+- Wolfenstein II: The New Colossus (PC)
+- Deathloop (PC)
+- God of War: Ragnarok (PC)
+- The Witcher 3: Wild Hunt (PC)
+- Cyberpunk 2077 (PC)
+- Superliminal (PC)
+- Viewfinder (PC)
 
 ## 🏁 Completed
 
@@ -36,20 +36,20 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Hades ⭐⭐⭐⭐⭐
 - God of War ⭐⭐⭐⭐⭐
 - Devil May Cry 5 ⭐⭐⭐⭐⭐ (Vergil only)
-- Shadow Warrior 3 ⭐ kinda lackluster
+- Shadow Warrior 3 ⭐ - lil bit lackluster
 - The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐
 - Wolfenstein: The New Order
-- Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 (skipped DLCs)
-- Dying Light ⭐⭐⭐⭐⭐
-- Trepang2 ⭐⭐⭐
+- Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 (PC)
+- Dying Light (PC) ⭐⭐⭐⭐⭐
+- Trepang2 (PC) ⭐⭐⭐
 - Risk of Rain 1, Risk of Rain 2
 - ULTRAKILL ⭐⭐⭐
 - BioShock Infinite ⭐
-- Yakuza Kiwami, Yakuza: Like a Dragon
-- Katana ZERO ⭐
-- Hotline Miami 1,2 ⭐
-- Dishonored 1,2
-- Borderlands 1,2,3
+- Yakuza Kiwami, Yakuza: Like a Dragon ⭐⭐⭐⭐⭐
+- Katana ZERO (PC) ⭐⭐⭐⭐⭐
+- Hotline Miami 1,2 (PC) ⭐⭐⭐⭐⭐
+- Dishonored 1,2 (PC) ⭐⭐⭐⭐⭐
+- Borderlands 1,2,3 (PC) ⭐⭐⭐
 - Doom (2016), Doom Eternal ⭐⭐⭐⭐⭐
 - Remnant 2 ⭐
 - DYNASTY WARRIORS 8: Xtreme Legends
@@ -84,15 +84,15 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 ## Gave up halfway
 
-- Tunguska: The Visitation
-- Far Cry 4: annoying mods
+- Tunguska: The Visitation (PC)
+- Far Cry 4 (PC) - mods
 - Nioh 2: Path finding problems
-- Dead Cells: horrible combat, play like a chore
-- Code Vein
-- Genshin Impact 
-- Minecraft
-- Fortnite
-- Valorant
+- Dead Cells (PC) - too tedious
+- Code Vein (PC)
+- Genshin Impact (PC)
+- Minecraft (PC)
+- Fortnite (PC)
+- Valorant (PC)
 
 
 ## History of video games
