@@ -4,6 +4,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 ## Playing
 
+- Warframe ⭐⭐⭐⭐⭐
 - Hades 2 ⭐⭐⭐⭐⭐
 - Granblue Fantasy: Relink ⭐⭐⭐⭐⭐
 
@@ -85,7 +86,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Fallout: New Vegas
 - The Elder Scrolls V: Skyrim Special Edition
 
-## I gave up
+## Gave up halfway
 
 - Tunguska: The Visitation
 - Far Cry 4: annoying mods
