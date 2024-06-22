@@ -1,4 +1,4 @@
-# Khoa's favorite video games list
+# 🎮 Khoa's favorite video games list
 
 ## My Steam Wishlist
 
