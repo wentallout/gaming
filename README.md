@@ -10,13 +10,13 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 ## 😍 Addicted right now
 
-- Warframe (PC) ⭐⭐⭐⭐⭐ - Space ninjas, fair game, a lot less Pay2Win
-- Hades 2 (PC) ⭐⭐⭐⭐⭐ - New masterpiece like Hades 1
+- Warframe (PC) ⭐⭐⭐⭐⭐ - Space ninjas, fair game, a lot less Pay2Win, great parkour, a lot of customizations and builds, great community, I got in a clan day 2
+- Hades 2 (PC) ⭐⭐⭐⭐⭐ - Another masterpiece like Hades 1
 
 
 ## 👯 Multiplayer
 
-- MapleStory (PC) ⭐⭐⭐⭐
+- MapleStory (PC) ⭐⭐⭐⭐ - too many classes, highly dependent on tier list, gearing can be problematic due to high meso cost. Fun game but the grind is not for everyone. Highly recommend playing on Reboot to avoid Pay2Win
 - The Finals (PC) ⭐⭐⭐⭐ - suffered from cheaters like most FPS, very innovative with destructible buildings
 - Wild Rift (PC) ⭐⭐⭐ - fair but bad team will make you mad
 - Counter Strike 2 / CS:GO (PC)
@@ -83,8 +83,8 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 ## Fun but requires mods
 
-- Fallout: New Vegas
-- The Elder Scrolls V: Skyrim Special Edition
+- Fallout: New Vegas ⭐⭐⭐⭐⭐
+- The Elder Scrolls V: Skyrim Special Edition ⭐⭐⭐⭐⭐
 
 ## Gave up halfway
 
@@ -92,7 +92,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Far Cry 4 (PC) - mods
 - Nioh 2: Path finding problems
 - Dead Cells (PC) - too tedious
-- Code Vein (PC)
+- Code Vein (PC) - too tedious, bad map design
 - Genshin Impact (PC)
 - Minecraft (PC)
 - Fortnite (PC)
