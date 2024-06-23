@@ -8,16 +8,16 @@ https://steamcommunity.com/id/wentallout
 
 https://store.steampowered.com/wishlist/id/wentallout
 
-## 😍 Playing
+## 😍 Addicted right now
 
-- Warframe (PC) ⭐⭐⭐⭐⭐ - Space ninjas, need I say more?
+- Warframe (PC) ⭐⭐⭐⭐⭐ - Space ninjas, fair game, a lot less Pay2Win
 - Hades 2 (PC) ⭐⭐⭐⭐⭐ - New masterpiece like Hades 1
 
 
 ## 👯 Multiplayer
 
-- MapleStory (PC)
-- The Finals (PC) ⭐⭐⭐⭐ 
+- MapleStory (PC) ⭐⭐⭐⭐
+- The Finals (PC) ⭐⭐⭐⭐ - suffered from cheaters like most FPS, very innovative with destructible buildings
 - Wild Rift (PC) ⭐⭐⭐ - fair but bad team will make you mad
 - Counter Strike 2 / CS:GO (PC)
 - Crusader Quest (Mobile) ⭐⭐⭐⭐⭐ - not Pay2Win, very good
@@ -25,11 +25,11 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 ## 🔥 Interested
 
-- Red Dead Redemption 2 (PC) - Massive masterpiece, didn't have time to play
+- Red Dead Redemption 2 (PC) ⭐⭐⭐⭐⭐ - Massive masterpiece, bought but didn't have time to play
 - Wolfenstein II: The New Colossus (PC)
 - Deathloop (PC)
 - God of War: Ragnarok (PC)
-- The Witcher 3: Wild Hunt (PC)
+- The Witcher 3: Wild Hunt (PC) ⭐⭐⭐⭐⭐
 - Cyberpunk 2077 (PC)
 - Superliminal (PC)
 - Viewfinder (PC)
@@ -45,8 +45,8 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Wolfenstein: The New Order
 - Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 (PC)
 - Dying Light (PC) ⭐⭐⭐⭐⭐
-- Trepang2 (PC) ⭐⭐⭐
-- Risk of Rain 1, Risk of Rain 2
+- Trepang2 (PC) ⭐⭐⭐ - great physics
+- Risk of Rain 1, Risk of Rain 2 ⭐⭐⭐
 - ULTRAKILL ⭐⭐⭐
 - BioShock Infinite ⭐
 - Yakuza Kiwami, Yakuza: Like a Dragon ⭐⭐⭐⭐⭐
