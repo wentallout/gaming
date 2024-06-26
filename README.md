@@ -8,9 +8,9 @@ https://steamcommunity.com/id/wentallout
 
 https://store.steampowered.com/wishlist/id/wentallout
 
-## 😍 Addicted right now
+## 😍 Daily
 
-- Warframe (PC) ⭐⭐⭐⭐⭐ → Space ninjas, fair game, a lot less Pay2Win, great parkour, a lot of customizations and builds, great community, I got in a clan day 2
+- Warframe (PC) ⭐⭐⭐⭐⭐ → Space ninjas, fair game, a lot less Pay2Win, fast/smooth movement, a lot of customizations and builds, great community
 - Hades 2 (PC) ⭐⭐⭐⭐⭐ → Another masterpiece like Hades 1
 
 
