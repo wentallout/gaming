@@ -16,9 +16,9 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 ## 👯 Multiplayer
 
-- MapleStory (PC) ⭐⭐⭐⭐ → too many classes, highly dependent on tier list, gearing can be problematic due to high meso cost. Fun game but the grind is not for everyone. Highly recommend playing on Reboot to avoid Pay2Win
+- MapleStory (PC) ⭐⭐⭐⭐ → too many classes, highly dependent on tier list, gearing can be problematic due to high cost from cubing/star force. Fun game but the grind is not for everyone. Highly recommend playing on Reboot to avoid Pay2Win
 - The Finals (PC) ⭐⭐⭐⭐ →  very innovative with destructible buildings, interesting game modes and maps, suffered from cheaters like most FPS.
-- Wild Rift (PC) ⭐⭐⭐ → fair but bad team will make you mad
+- Wild Rift (Mobile) ⭐⭐⭐ → fair but bad team will make you mad
 - Counter Strike 2 / CS:GO (PC) ⭐ → not casual friendly, mostly appeal to older players who gamble for expensive skins, knives, etc.
 - Crusader Quest (Mobile) ⭐⭐⭐⭐⭐ → not Pay2Win, very well written story, decent events, many heroes to choose and assemble into a 3-man team, innovative gameplay
 
