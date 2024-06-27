@@ -63,7 +63,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 
 ## 🔥 Interested but haven't played
 
-- Red Dead Redemption 2 (PC) ⭐⭐⭐⭐⭐ - Massive masterpiece, bought but didn't have time to play
+- Red Dead Redemption 2 (PC) ⭐⭐⭐⭐⭐ → Massive masterpiece, bought but didn't have time to play
 - Wolfenstein II: The New Colossus (PC)
 - Deathloop (PC) → innovative story and ideas from trailer
 - God of War: Ragnarok (PC) 
@@ -72,22 +72,10 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Superliminal (PC)
 - Viewfinder (PC)
 
-## 🪩 Retro
-
-- Metal Slug 3 (2000)
-- Metal Slug 5 (2004)
-- Aero Fighters 2
-- Shock Troopers
-- Blazing Star (1998)
-- WindJammers (1994)
-- Neo Bomberman (1997)
-- Top Hunter: Roddy & Cathy (1994)
-- Spinmaster (1993)
-
 ## Fun but requires mods
 
-- Fallout: New Vegas ⭐⭐⭐⭐⭐
-- The Elder Scrolls V: Skyrim Special Edition ⭐⭐⭐⭐⭐
+- Fallout: New Vegas ⭐⭐⭐⭐ → clunky animation and physics, still fun tho
+- The Elder Scrolls V: Skyrim Special Edition ⭐⭐⭐ → prepare to download 100 mods just to fix bugs and performance issues
 
 ## Passed
 
@@ -100,6 +88,18 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Minecraft (PC)
 - Fortnite (PC)
 - Valorant (PC)
+
+## 🪩 Retro
+
+- Metal Slug 3 (2000)
+- Metal Slug 5 (2004)
+- Aero Fighters 2
+- Shock Troopers
+- Blazing Star (1998)
+- WindJammers (1994)
+- Neo Bomberman (1997)
+- Top Hunter: Roddy & Cathy (1994)
+- Spinmaster (1993)
 
 
 ## History of video games
