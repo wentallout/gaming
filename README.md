@@ -11,7 +11,7 @@ https://store.steampowered.com/wishlist/id/wentallout
 ## 😍 Daily
 
 - Warframe (PC) ⭐⭐⭐⭐⭐ → Space ninjas, fair game, a lot less Pay2Win, fast/smooth movement, a lot of customizations and builds, great community
-- Hades 2 (PC) ⭐⭐⭐⭐⭐ → Another masterpiece like Hades 1, great voice acting and story
+
 
 ## 📱 Mobile
 
@@ -28,12 +28,13 @@ https://store.steampowered.com/wishlist/id/wentallout
 ## 🏁 Completed
 
 - Granblue Fantasy: Relink ⭐⭐⭐⭐⭐ - Good combat
-- Hades ⭐⭐⭐⭐⭐ → **GOTY**, incredible story, voice acting and music, fun replayable gameplay with random upgrades, top tier rogue-like,
+- Hades (PC) ⭐⭐⭐⭐⭐ → **GOTY**, incredible story, voice acting and music, fun replayable gameplay with random upgrades, top tier rogue-like.
+- Hades 2 (PC) ⭐⭐⭐⭐⭐ → Another masterpiece like Hades 1, great voice acting and story
 - God of War ⭐⭐⭐⭐⭐ → **GOTY**
 - Devil May Cry 5 ⭐⭐⭐⭐ → I mostly play Vergil, other characters require too much input to work well
 - Shadow Warrior 3 ⭐ - lil bit lackluster, compared to 2th might be a step down
-- The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐
-- Wolfenstein: The New Order
+- The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐ → better than most space game I've seen, great story, gameplay is smooth and chill
+- Wolfenstein: The New Order (PC)
 - Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 (PC) ⭐⭐⭐ → overrated but fun I guess
 - Dying Light (PC) ⭐⭐⭐⭐⭐ → great physics, generic zombie story but still interesting, great parkour movement, gunplay feels good
 - Trepang2 (PC) ⭐⭐⭐ - great physics and gunfight, let players do amazing slowmo constantly. very F.E.A.R
