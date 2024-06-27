@@ -29,7 +29,7 @@
 - Hades 2 (PC) ⭐⭐⭐⭐⭐ → Another masterpiece like Hades 1, great voice acting and story
 - God of War ⭐⭐⭐⭐⭐ → **GOTY**
 - Devil May Cry 5 ⭐⭐⭐⭐ → I mostly play Vergil, other characters require too much input to work well
-- Shadow Warrior 3 ⭐ - lil bit lackluster, compared to 2th might be a step down
+- Shadow Warrior 3 ⭐ → lil bit lackluster, compared to 2th might be a step down
 - The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐ → better than most space game I've seen, great story, gameplay is smooth and chill
 - Wolfenstein: The New Order (PC) ⭐⭐⭐
 - Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 (PC) ⭐⭐⭐ → overrated but fun I guess
@@ -56,17 +56,17 @@
 - Need for Speed™ Most Wanted ⭐⭐⭐ → true classic of the 2K era, racing outlaws, hot girls, great police radio and chase, make players feel the speed correctly
 - Terraria (PC) ⭐⭐⭐
 - Cave Story+ (PC) ⭐⭐⭐
-- Touhou Series (PC)
+- Touhou Series (PC) ⭐⭐⭐
 - Tomb Raider, Rise of the Tomb Raider, Shadow of the Tomb Raider (PC) ⭐⭐⭐⭐⭐ → first game is epic, last game might be "meh" for some people
 
 ## 🔥 Interested but haven't played
 
 - Red Dead Redemption 2 (PC) ⭐⭐⭐⭐⭐ → Massive masterpiece, bought but didn't have time to play
-- Wolfenstein II: The New Colossus (PC)
-- Deathloop (PC) → innovative story and ideas from trailer
-- God of War: Ragnarok (PC) 
+- Wolfenstein II: The New Colossus (PC) → not sure
+- Deathloop (PC) → innovative story and ideas?
+- God of War: Ragnarok (PC) ⭐⭐⭐⭐   might be a downgrade from the first GoW
 - The Witcher 3: Wild Hunt (PC) ⭐⭐⭐⭐⭐
-- Cyberpunk 2077 (PC) ⭐⭐⭐⭐
+- Cyberpunk 2077 (PC) ⭐⭐⭐⭐ → I love the cyberpunk genre but not sure about game performance
 - Superliminal (PC)
 - Viewfinder (PC)
 
