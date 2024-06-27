@@ -46,8 +46,8 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Hotline Miami 1,2 (PC) ⭐⭐⭐⭐⭐ → violent and fast combat, bossing is weird, fantastic music, needs trial-and-error to beat difficult stage
 - Dishonored 1,2 (PC) ⭐⭐⭐⭐ → king of stealth games, needs trial-and-error to clear stages, very skill-demanding
 - Borderlands 1,2,3 (PC) ⭐⭐⭐ → king of looter-shooter genre, gets repetitive at the end
-- Doom (2016), Doom Eternal ⭐⭐⭐⭐⭐ 
-- Remnant 2 ⭐ → overrated
+- Doom (2016), Doom Eternal (PC) ⭐⭐⭐⭐⭐ → **GOTY**, top tier metal/eletronic music and gameplay, makes you feel badass
+- Remnant 2 (PC) ⭐ → overrated
 - DYNASTY WARRIORS 8: Xtreme Legends ⭐⭐
 - Half-Life 2 (PC) ⭐⭐⭐ → old masterpiece, great physics and story, gameplay and sound is a little outdated
 - Control (PC) ⭐⭐⭐⭐⭐ → a modern masterpiece, unique story, fantastic special effects, decent music, fun gameplay but repetitive due to limited combat options (only throw is good)
@@ -55,8 +55,8 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Enter the Gungeon (PC) ⭐⭐⭐ → a little bit too hard for my taste, repetitive gameplay, fun guns don't come easily
 - Ys IX: Monstrum Nox (PC) ⭐⭐⭐
 - Skul: The Hero Slayer (PC) ⭐⭐⭐ →  roguelike-action platformer that lets you control a cute skeleton that can swap heads to get different abilities and skill sets, high replayability
-- Bayonnetta 1,2,3 ⭐⭐⭐⭐⭐ → great hack n slash alternative to DMC, easy to pickup but deep combat system
-- Need for Speed™ Most Wanted ⭐⭐⭐⭐⭐ → true classic of the 2K era, racing outlaws, hot girls, great police radio and chase, make players feel the speed correctly
+- Bayonnetta 1,2,3 ⭐⭐⭐⭐⭐ → great hack n slash alternative to DMC, deep combat system but easy to pick up
+- Need for Speed™ Most Wanted ⭐⭐⭐⭐ → true classic of the 2K era, racing outlaws, hot girls, great police radio and chase, make players feel the speed correctly
 - Terraria (PC) ⭐⭐⭐
 - Cave Story+ (PC) ⭐⭐⭐
 - Touhou Series (PC)
@@ -83,12 +83,12 @@ https://store.steampowered.com/wishlist/id/wentallout
 ## 🤦‍♂️ Hard pass
 
 - Tunguska: The Visitation (PC)
-- Far Cry 4 (PC) - mods
-- Nioh 2 (PC) - Path finding problems
-- Dead Cells (PC) - tedious
-- Code Vein (PC) - tedious, REALLY horrible map design
+- Far Cry 4 (PC) → mods
+- Nioh 2 (PC) → Path finding problems
+- Dead Cells (PC) → tedious
+- Code Vein (PC) → tedious, REALLY horrible map design
 - Genshin Impact (PC) → tedious
-- Fortnite (PC)
+- Fortnite (PC) → great if you have nothing to play
 - Valorant (PC) → too toxic and competitive
 
 ## 🪩 Retro
