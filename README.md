@@ -28,14 +28,14 @@ https://store.steampowered.com/wishlist/id/wentallout
 ## 🏁 Completed
 
 - Granblue Fantasy: Relink ⭐⭐⭐⭐⭐ - Good combat
-- Hades ⭐⭐⭐⭐⭐
-- God of War ⭐⭐⭐⭐⭐
-- Devil May Cry 5 ⭐⭐⭐⭐⭐ (Vergil only)
+- Hades ⭐⭐⭐⭐⭐ → **GOTY**, incredible story, voice acting and music, fun replayable gameplay with random upgrades, top tier rogue-like,
+- God of War ⭐⭐⭐⭐⭐ → **GOTY**
+- Devil May Cry 5 ⭐⭐⭐⭐ → I mostly play Vergil, other characters require too much input to work well
 - Shadow Warrior 3 ⭐ - lil bit lackluster, compared to 2th might be a step down
 - The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐
 - Wolfenstein: The New Order
-- Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 (PC)
-- Dying Light (PC) ⭐⭐⭐⭐⭐
+- Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 (PC) ⭐⭐⭐ → overrated but fun I guess
+- Dying Light (PC) ⭐⭐⭐⭐⭐ → great physics, generic zombie story but still interesting, great parkour movement, gunplay feels good
 - Trepang2 (PC) ⭐⭐⭐ - great physics and gunfight, let players do amazing slowmo constantly. very F.E.A.R
 - Risk of Rain 1, Risk of Rain 2 ⭐⭐⭐⭐ - you're stranded on a planet, pickup strange items to get stronger, survive massive monster wave, if you die you lose everything, great music, high replayability
 - ULTRAKILL ⭐⭐⭐⭐⭐ → very fast-paced gameplay, all sorts of wacky guns and tricks, graphics is simple, low-poly, bosses are aggressive. 
@@ -43,23 +43,23 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Yakuza Kiwami, Yakuza: Like a Dragon ⭐⭐⭐⭐⭐ →
 - Katana ZERO (PC) ⭐⭐⭐⭐ → amazing game but too short, great story, fast and impactful combat, needs trial-and-error to beat difficult stage
 - Hotline Miami 1,2 (PC) ⭐⭐⭐⭐⭐ → violent and fast combat, bossing is weird, fantastic music, needs trial-and-error to beat difficult stage
-- Dishonored 1,2 (PC) ⭐⭐⭐⭐⭐
-- Borderlands 1,2,3 (PC) ⭐⭐⭐
-- Doom (2016), Doom Eternal ⭐⭐⭐⭐⭐
+- Dishonored 1,2 (PC) ⭐⭐⭐⭐ → king of stealth games, needs trial-and-error to clear stages, very skill-demanding
+- Borderlands 1,2,3 (PC) ⭐⭐⭐ → king of looter-shooter genre, gets repetitive at the end
+- Doom (2016), Doom Eternal ⭐⭐⭐⭐⭐ 
 - Remnant 2 ⭐ → overrated
 - DYNASTY WARRIORS 8: Xtreme Legends ⭐⭐
-- Half-Life 2 ⭐⭐⭐ → old masterpiece, great physics and story, gameplay and sound is a little outdated
-- Control ⭐⭐⭐⭐⭐ → a modern masterpiece, unique story, fantastic special effects, decent music, fun gameplay but repetitive due to limited combat options (only throw is good)
-- OTXO ⭐⭐⭐ 
-- Enter the Gungeon ⭐⭐⭐ → a little bit too hard for my taste, repetitive gameplay, fun guns don't come easily
-- Ys IX: Monstrum Nox
-- Skul: The Hero Slayer ⭐⭐⭐ →  roguelike-action platformer that lets you control a cute skeleton that can swap heads to get different abilities and skill sets, high replayability
+- Half-Life 2 (PC) ⭐⭐⭐ → old masterpiece, great physics and story, gameplay and sound is a little outdated
+- Control (PC) ⭐⭐⭐⭐⭐ → a modern masterpiece, unique story, fantastic special effects, decent music, fun gameplay but repetitive due to limited combat options (only throw is good)
+- OTXO (PC) ⭐⭐⭐ → hotline miami with rogue-like features, not bad
+- Enter the Gungeon (PC) ⭐⭐⭐ → a little bit too hard for my taste, repetitive gameplay, fun guns don't come easily
+- Ys IX: Monstrum Nox (PC) ⭐⭐⭐
+- Skul: The Hero Slayer (PC) ⭐⭐⭐ →  roguelike-action platformer that lets you control a cute skeleton that can swap heads to get different abilities and skill sets, high replayability
 - Bayonnetta 1,2,3 ⭐⭐⭐⭐⭐ → great hack n slash alternative to DMC, easy to pickup but deep combat system
 - Need for Speed™ Most Wanted ⭐⭐⭐⭐⭐ → true classic of the 2K era, racing outlaws, hot girls, great police radio and chase, make players feel the speed correctly
-- Terraria ⭐⭐⭐
-- Cave Story+ ⭐⭐⭐
-- Touhou Series
-- Tomb Raider, Rise of the Tomb Raider, Shadow of the Tomb Raider ⭐⭐⭐⭐⭐
+- Terraria (PC) ⭐⭐⭐
+- Cave Story+ (PC) ⭐⭐⭐
+- Touhou Series (PC)
+- Tomb Raider, Rise of the Tomb Raider, Shadow of the Tomb Raider (PC) ⭐⭐⭐⭐⭐ → first game is epic, last game might be "meh" for some people
 
 ## 🔥 Interested but haven't played
 
@@ -72,22 +72,23 @@ https://store.steampowered.com/wishlist/id/wentallout
 - Superliminal (PC)
 - Viewfinder (PC)
 
-## Fun but requires mods
+## 🛠️ Fun but requires mods
 
-- Fallout: New Vegas ⭐⭐⭐⭐ → clunky animation and physics, still fun tho
-- The Elder Scrolls V: Skyrim Special Edition ⭐⭐⭐ → prepare to download 100 mods just to fix bugs and performance issues
+- Fallout: New Vegas (PC) ⭐⭐⭐⭐ → clunky animation and physics, still fun tho
+- The Elder Scrolls V: Skyrim Special Edition (PC) ⭐⭐⭐ → prepare to download 100 mods just to fix bugs and performance issues
+- The Sims series ⭐ → not a fan, I'm not going through 10 steps just to install mods
+- Minecraft (PC) ⭐⭐⭐
 
-## Passed
+## 🤦‍♂️ Hard pass
 
 - Tunguska: The Visitation (PC)
 - Far Cry 4 (PC) - mods
 - Nioh 2 (PC) - Path finding problems
-- Dead Cells (PC) - too tedious
-- Code Vein (PC) - too tedious, REALLY horrible map design
-- Genshin Impact (PC)
-- Minecraft (PC)
+- Dead Cells (PC) - tedious
+- Code Vein (PC) - tedious, REALLY horrible map design
+- Genshin Impact (PC) → tedious
 - Fortnite (PC)
-- Valorant (PC)
+- Valorant (PC) → too toxic and competitive
 
 ## 🪩 Retro
 
