@@ -13,7 +13,7 @@
 ## 📱 Mobile
 
 - Wild Rift (Mobile) ⭐⭐⭐ → fair game, only thing costs money are cosmetics, bad team will make you mad in public games
-- Crusader Quest (Mobile) ⭐⭐⭐⭐⭐ → not Pay2Win, very well written story, decent events, many heroes to choose and assemble into a 3-man team, innovative gameplay
+- Crusader Quest (Mobile) ⭐⭐⭐⭐ → not Pay2Win, very well written story, decent events, many heroes to choose and assemble into a 3-man team, innovative gameplay
 
 
 ## 👯 Multiplayer
@@ -31,14 +31,14 @@
 - Devil May Cry 5 ⭐⭐⭐⭐ → I mostly play Vergil, other characters require too much input to work well
 - Shadow Warrior 3 ⭐ - lil bit lackluster, compared to 2th might be a step down
 - The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐ → better than most space game I've seen, great story, gameplay is smooth and chill
-- Wolfenstein: The New Order (PC)
+- Wolfenstein: The New Order (PC) ⭐⭐⭐
 - Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 (PC) ⭐⭐⭐ → overrated but fun I guess
 - Dying Light (PC) ⭐⭐⭐⭐⭐ → great physics, generic zombie story but still interesting, great parkour movement, gunplay feels good
 - Trepang2 (PC) ⭐⭐⭐ - great physics and gunfight, let players do amazing slowmo constantly. very F.E.A.R
-- Risk of Rain 1, Risk of Rain 2 ⭐⭐⭐⭐ - you're stranded on a planet, pickup strange items to get stronger, survive massive monster wave, if you die you lose everything, great music, high replayability
+- Risk of Rain 1, Risk of Rain 2 (PC) ⭐⭐⭐⭐ - great music, high replayability
 - ULTRAKILL ⭐⭐⭐⭐⭐ → very fast-paced gameplay, all sorts of wacky guns and tricks, graphics is simple, low-poly, bosses are aggressive. 
-- BioShock Infinite ⭐⭐⭐⭐ → old masterpiece
-- Yakuza Kiwami, Yakuza: Like a Dragon ⭐⭐⭐⭐⭐ →
+- BioShock Infinite ⭐⭐⭐⭐ → old masterpiece, story might be confusing, top tier gun combat
+- Yakuza Kiwami, Yakuza: Like a Dragon ⭐⭐⭐⭐⭐ → **GOTY**
 - Katana ZERO (PC) ⭐⭐⭐⭐ → amazing game but too short, great story, fast and impactful combat, needs trial-and-error to beat difficult stage
 - Hotline Miami 1,2 (PC) ⭐⭐⭐⭐⭐ → violent and fast combat, bossing is weird, fantastic music, needs trial-and-error to beat difficult stage
 - Dishonored 1,2 (PC) ⭐⭐⭐⭐ → king of stealth games, needs trial-and-error to clear stages, very skill-demanding
@@ -52,8 +52,8 @@
 - Enter the Gungeon (PC) ⭐⭐⭐ → a little bit too hard for my taste, repetitive gameplay, fun guns don't come easily
 - Ys IX: Monstrum Nox (PC) ⭐⭐⭐
 - Skul: The Hero Slayer (PC) ⭐⭐⭐ →  roguelike-action platformer that lets you control a cute skeleton that can swap heads to get different abilities and skill sets, high replayability
-- Bayonnetta 1,2,3 ⭐⭐⭐⭐⭐ → great hack n slash alternative to DMC, deep combat system but easy to pick up
-- Need for Speed™ Most Wanted ⭐⭐⭐⭐ → true classic of the 2K era, racing outlaws, hot girls, great police radio and chase, make players feel the speed correctly
+- Bayonnetta 1,2,3 ⭐⭐⭐⭐ → great hack n slash alternative to DMC, deep combat system but easy to pick up
+- Need for Speed™ Most Wanted ⭐⭐⭐ → true classic of the 2K era, racing outlaws, hot girls, great police radio and chase, make players feel the speed correctly
 - Terraria (PC) ⭐⭐⭐
 - Cave Story+ (PC) ⭐⭐⭐
 - Touhou Series (PC)
