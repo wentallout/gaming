@@ -69,6 +69,7 @@
 - Cyberpunk 2077 (PC) ⭐⭐⭐⭐ → I love the cyberpunk genre but not sure about game performance
 - Superliminal (PC)
 - Viewfinder (PC)
+- Nine Sols (PC)
 
 ## 🛠️ Fun but requires mods
 
