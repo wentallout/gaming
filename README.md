@@ -2,7 +2,7 @@
 
 ## About Me
 
-I play mostly PC games. Android games are acceptable if they don't waste my time.
+I play both indie and AAA games. PC is the main platform but Android games are acceptable if they don't waste my time.
 
 - Steam Profile: https://steamcommunity.com/id/wentallout
 - Steam Wishlist: https://store.steampowered.com/wishlist/id/wentallout
