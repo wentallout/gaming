@@ -115,15 +115,17 @@
 
 ## 🪩 Retro
 
-- Metal Slug 3 (2000) ⭐⭐⭐⭐⭐
-- Metal Slug 5 (2004) ⭐⭐⭐⭐⭐
-- Aero Fighters 2 ⭐⭐⭐⭐⭐
-- Shock Troopers ⭐⭐⭐⭐⭐
-- Blazing Star (1998) ⭐⭐⭐⭐⭐
-- WindJammers (1994) ⭐⭐⭐⭐⭐
-- Neo Bomberman (1997) ⭐⭐⭐⭐⭐
-- Top Hunter: Roddy & Cathy (1994) ⭐⭐⭐⭐⭐
-- Spinmaster (1993) ⭐⭐⭐⭐⭐
+Can't rank, mostly for nostalgia.
+
+- Metal Slug 3 (2000) 
+- Metal Slug 5 (2004)
+- Aero Fighters 2
+- Shock Troopers
+- Blazing Star (1998)
+- WindJammers (1994)
+- Neo Bomberman (1997)
+- Top Hunter: Roddy & Cathy (1994)
+- Spinmaster (1993)
 
 
 ## History of video games
