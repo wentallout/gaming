@@ -9,11 +9,18 @@
 
 | Rating     | Description                                                                                     |
 |------------|-------------------------------------------------------------------------------------------------|
+| 🚮         | not worth the time.                                                                              |
 | ⭐         | Has too many flaws, overrated, or has no replayability => might uninstall early.                  |
 | ⭐⭐        | Playable but not polished enough => might uninstall but only after finishing.                     |
-| ⭐⭐⭐       | Acceptable quality.                                                                              |
+| ⭐⭐⭐       | Decent quality compared to other games in the same genre                                         |
 | ⭐⭐⭐⭐      | Entertaining, has replayability.                                                                 |
 | ⭐⭐⭐⭐⭐     | Masterpiece that you need to play before you die, can be replayed constantly. Usually GOTY winners with a good story. |
+
+## Trends in modern video games
+
+- There has been a lot of negativity whenever a new 5v5/Hero-shooter/Battle Royale shows up.
+- Gamers don't like when there are blatant wokeness/politics in their games.
+- Gamers will not play your game if the character design is intentionally ugly.
 
 
 ## Steam
