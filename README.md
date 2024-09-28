@@ -27,8 +27,8 @@ I play mostly PC games. Android games are acceptable if they don't waste my time
 
 - There has been a lot of negativity whenever a new 5v5/Hero-shooter/Battle Royale shows up.
 - Gamers don't like when there are blatant wokeness/politics in their games.
-- Gamers will not play your game if the character design is intentionally ugly.
-- Pay2Win is unacceptable in 2024. Mobile gacha games rely on this but sometimes it's fair enough that the game won't close after 1 month.
+- Gamers will not play your game if the character design is intentionally ugly (example: Concord).
+- Pay2Win is unacceptable in 2024. Mobile gacha games rely heavily on this but sometimes its design is fair enough that the game won't be closed after 1 month.
 
 ## 📱 Mobile
 
