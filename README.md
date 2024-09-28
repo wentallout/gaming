@@ -2,18 +2,18 @@
 
 ## Ranking explanation
 
-- The most important quality of a good video game is how it deliver its most important feature. Example: Combat games need to have deep combat, puzzle games need to be satisfying.
+- The most important quality of a good video game is how it deliver its most important features. Example: Combat games need to have deep combat, puzzle games need to be satisfying.
 - I do not use graphics to measure good games.
 - Good music/sound and unique art style always enhance video games.
 - UX problems do exist on high quality games => will ignore unless it's too annoying.
 
 | Rating     | Description                                                                                     |
 |------------|-------------------------------------------------------------------------------------------------|
-| 🚮         | Not worth the time.                                                                              |
-| ⭐         | Has too many flaws, overrated, or has no replayability => might uninstall early.                  |
-| ⭐⭐        | Playable but not polished enough => might uninstall but only after finishing.                     |
-| ⭐⭐⭐       | Decent quality compared to other games in the same genre.                                         |
-| ⭐⭐⭐⭐      | Entertaining, has replayability.                                                                 |
+| 🚮         | Not worth the time.                                                                                                      |
+| ⭐         | Playable but has too many flaws, overrated, or has no replayability => might uninstall early.                            |
+| ⭐⭐        | Playable but not polished enough, does deliver what the genre demands. => might uninstall but only after finishing.     |
+| ⭐⭐⭐       | Decent quality compared to other games in the same genre.                                                             |
+| ⭐⭐⭐⭐      | Entertaining, has replayability.                                                                                     |
 | ⭐⭐⭐⭐⭐     | Masterpiece that you need to play before you die, can be replayed constantly. Usually GOTY winners with a good story. |
 
 ## Trends in modern video games
@@ -49,7 +49,7 @@
 - Granblue Fantasy: Relink ⭐⭐⭐⭐⭐ - Good combat
 - Hades (PC) ⭐⭐⭐⭐⭐ → **GOTY**, incredible story, voice acting and music, fun replayable gameplay with random upgrades, top tier rogue-like.
 - Hades 2 (PC) ⭐⭐⭐⭐⭐ → Another masterpiece like Hades 1, great voice acting and story
-- God of War ⭐⭐⭐⭐⭐ → **GOTY**
+- God of War ⭐⭐⭐⭐⭐ → **GOTY**, deep father-son story, exciting and cinematic combat.
 - Devil May Cry 5 ⭐⭐⭐⭐ → I mostly play Vergil, other characters require too much input to work well
 - Shadow Warrior 3 ⭐ → lil bit lackluster, compared to 2th might be a step down
 - The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐ → better than most space game I've seen, great story, gameplay is smooth and chill
