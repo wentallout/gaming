@@ -93,7 +93,7 @@ I play mostly PC games. Android games are acceptable if they don't waste my time
 - Viewfinder 
 - Nine Sols 
 
-## 🛠️ Required mods to work
+## 🛠️ Mods required
 
 - Fallout: New Vegas  ⭐⭐⭐ → buggy, clunky animation and physics, still fun tho
 - The Elder Scrolls V: Skyrim Special Edition  ⭐⭐⭐ → prepare to download 100 mods just to fix bugs and performance issues
