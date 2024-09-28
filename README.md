@@ -7,11 +7,14 @@
 - Good music/sound and unique art style always enhance video games.
 - UX problems do exist on high quality games => will ignore unless it's too annoying.
 
-⭐: has too many flaws, overrated or has no replayability => might uninstall early.
-⭐⭐: playable but not polished enough, => might uninstall but only after finishing.
-⭐⭐⭐: acceptable quality
-⭐⭐⭐⭐: entertaining, has replayability
-⭐⭐⭐⭐⭐: masterpiece that you need to play before you die, can be replayed constantly, can keep for a long time without uninstallation. Usually GOTY winners with good story.
+| Rating     | Description                                                                                     |
+|------------|-------------------------------------------------------------------------------------------------|
+| ⭐         | Has too many flaws, overrated, or has no replayability => might uninstall early.                  |
+| ⭐⭐        | Playable but not polished enough => might uninstall but only after finishing.                     |
+| ⭐⭐⭐       | Acceptable quality.                                                                              |
+| ⭐⭐⭐⭐      | Entertaining, has replayability.                                                                 |
+| ⭐⭐⭐⭐⭐     | Masterpiece that you need to play before you die, can be replayed constantly. Usually GOTY winners with a good story. |
+
 
 ## Steam
 
