@@ -18,7 +18,7 @@ I play both indie and AAA games. PC is the main platform but Android games are a
 |------------|-------------------------------------------------------------------------------------------------|
 | 🚮         | Not worth the time.                                                                                                      |
 | ⭐         | Playable but has too many flaws, overrated, or has no replayability => might uninstall early.                            |
-| ⭐⭐        | Playable but not polished enough, does deliver what the genre demands. => might uninstall but only after finishing.     |
+| ⭐⭐        | Playable but not polished enough, has potential, does deliver what the genre demands. => might uninstall but only after finishing.     |
 | ⭐⭐⭐       | Decent quality compared to other games in the same genre.                                                             |
 | ⭐⭐⭐⭐      | Entertaining, has replayability.                                                                                     |
 | ⭐⭐⭐⭐⭐     | Masterpiece that you need to play before you die, can be replayed constantly. Usually GOTY winners with a good story. |
@@ -87,8 +87,8 @@ I play both indie and AAA games. PC is the main platform but Android games are a
 - Wolfenstein II: The New Colossus  → not sure
 - Deathloop  → innovative story and ideas?
 - God of War: Ragnarok  ⭐⭐⭐⭐   might be a downgrade from the first GoW
-- The Witcher 3: Wild Hunt  ⭐⭐⭐⭐⭐
-- Cyberpunk 2077  ⭐⭐⭐⭐ → I love the cyberpunk genre but not sure about game performance
+- The Witcher 3: Wild Hunt  ? →i n progress.
+- Cyberpunk 2077  ⭐⭐⭐⭐ → It seems to have been fixed after its horrible launch. Will look deeper.
 - Superliminal 
 - Viewfinder 
 - Nine Sols 
