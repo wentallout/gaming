@@ -38,7 +38,7 @@ I play mostly PC games. Android games are acceptable if they don't waste my time
 ## 👯 Multiplayer
 
 - Warframe ⭐⭐⭐⭐⭐ → Space ninjas, fair game, a lot less Pay2Win, fast/smooth movement, a lot of customizations and builds, great community
-- MapleStory  ⭐⭐⭐⭐ → too many classes, highly dependent on tier list, gearing can be problematic due to high cost from cubing/star force. Fun game but the grind is not for everyone. Highly recommend playing on Reboot to avoid Pay2Win
+- MapleStory  ⭐⭐⭐ → too many classes, highly dependent on tier list, gearing can be problematic due to high cost from cubing/star force. Fun game but the grind is not for everyone. Highly recommend playing on Reboot to avoid Pay2Win
 - The Finals  ⭐⭐⭐⭐ →  very innovative with destructible buildings, interesting game modes and maps, suffered from cheaters like most FPS.
 - Counter Strike 2 / CS:GO  ⭐ → not casual friendly, mostly appeal to older players who gamble for expensive skins, knives, etc.
 
