@@ -1,5 +1,18 @@
 # 🎮 Khoa's favorite video games list (Updated June 2024)
 
+## Ranking explanation
+
+- The most important quality of a good video game is how it deliver its most important feature. Example: Combat games need to have deep combat, puzzle games need to be satisfying.
+- I do not use graphics to measure good games.
+- Good music/sound and unique art style always enhance video games.
+- UX problems do exist on high quality games => will ignore unless it's too annoying.
+
+⭐: has too many flaws, overrated or has no replayability => might uninstall early.
+⭐⭐: playable but not polished enough, => might uninstall but only after finishing.
+⭐⭐⭐: acceptable quality
+⭐⭐⭐⭐: entertaining, has replayability
+⭐⭐⭐⭐⭐: masterpiece that you need to play before you die, can be replayed constantly, can keep for a long time without uninstallation. Usually GOTY winners with good story.
+
 ## Steam
 
 - Profile: https://steamcommunity.com/id/wentallout
@@ -9,12 +22,10 @@
 
 - Warframe (PC) ⭐⭐⭐⭐⭐ → Space ninjas, fair game, a lot less Pay2Win, fast/smooth movement, a lot of customizations and builds, great community
 
-
 ## 📱 Mobile
 
 - Wild Rift (Mobile) ⭐⭐⭐ → fair game, only thing costs money are cosmetics, bad team will make you mad in public games
 - Crusader Quest (Mobile) ⭐⭐⭐⭐ → not Pay2Win, very well written story, decent events, many heroes to choose and assemble into a 3-man team, innovative gameplay
-
 
 ## 👯 Multiplayer
 
@@ -44,7 +55,7 @@
 - Dishonored 1,2 (PC) ⭐⭐⭐⭐ → king of stealth games, needs trial-and-error to clear stages, very skill-demanding
 - Borderlands 1,2,3 (PC) ⭐⭐⭐ → king of looter-shooter genre, gets repetitive at the end
 - Doom (2016), Doom Eternal (PC) ⭐⭐⭐⭐⭐ → **GOTY**, top tier metal/eletronic music and gameplay, makes you feel badass
-- Remnant 2 (PC) ⭐ → overrated
+- Remnant 2 (PC) ⭐ → overrated, movement is sluggish.
 - DYNASTY WARRIORS 8: Xtreme Legends ⭐⭐
 - Half-Life 2 (PC) ⭐⭐⭐ → old masterpiece, great physics and story, gameplay and sound is a little outdated
 - Control (PC) ⭐⭐⭐⭐⭐ → a modern masterpiece, unique story, fantastic special effects, decent music, fun gameplay but repetitive due to limited combat options (only throw is good)
@@ -59,7 +70,7 @@
 - Touhou Series (PC) ⭐⭐⭐
 - Tomb Raider, Rise of the Tomb Raider, Shadow of the Tomb Raider (PC) ⭐⭐⭐⭐⭐ → first game is epic, last game might be "meh" for some people
 
-## 🔥 Interested but haven't played
+## 🔥 Interested but haven't played much
 
 - Red Dead Redemption 2 (PC) ⭐⭐⭐⭐⭐ → Massive masterpiece, bought but didn't have time to play
 - Wolfenstein II: The New Colossus (PC) → not sure
@@ -71,7 +82,7 @@
 - Viewfinder (PC)
 - Nine Sols (PC)
 
-## 🛠️ Fun but requires mods
+## 🛠️ Required mods
 
 - Fallout: New Vegas (PC) ⭐⭐⭐⭐ → clunky animation and physics, still fun tho
 - The Elder Scrolls V: Skyrim Special Edition (PC) ⭐⭐⭐ → prepare to download 100 mods just to fix bugs and performance issues
@@ -81,7 +92,7 @@
 ## 🤦‍♂️ Hard pass
 
 - Tunguska: The Visitation (PC)
-- Far Cry 4 (PC) → mods
+- Far Cry 4 (PC) → mods are hard to install
 - Nioh 2 (PC) → Path finding problems
 - Dead Cells (PC) → tedious
 - Code Vein (PC) → tedious, REALLY horrible map design
@@ -91,15 +102,15 @@
 
 ## 🪩 Retro
 
-- Metal Slug 3 (2000)
-- Metal Slug 5 (2004)
-- Aero Fighters 2
-- Shock Troopers
-- Blazing Star (1998)
-- WindJammers (1994)
-- Neo Bomberman (1997)
-- Top Hunter: Roddy & Cathy (1994)
-- Spinmaster (1993)
+- Metal Slug 3 (2000) ⭐⭐⭐⭐⭐
+- Metal Slug 5 (2004) ⭐⭐⭐⭐⭐
+- Aero Fighters 2 ⭐⭐⭐⭐⭐
+- Shock Troopers ⭐⭐⭐⭐⭐
+- Blazing Star (1998) ⭐⭐⭐⭐⭐
+- WindJammers (1994) ⭐⭐⭐⭐⭐
+- Neo Bomberman (1997) ⭐⭐⭐⭐⭐
+- Top Hunter: Roddy & Cathy (1994) ⭐⭐⭐⭐⭐
+- Spinmaster (1993) ⭐⭐⭐⭐⭐
 
 
 ## History of video games
