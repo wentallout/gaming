@@ -9,10 +9,10 @@
 
 | Rating     | Description                                                                                     |
 |------------|-------------------------------------------------------------------------------------------------|
-| 🚮         | not worth the time.                                                                              |
+| 🚮         | Not worth the time.                                                                              |
 | ⭐         | Has too many flaws, overrated, or has no replayability => might uninstall early.                  |
 | ⭐⭐        | Playable but not polished enough => might uninstall but only after finishing.                     |
-| ⭐⭐⭐       | Decent quality compared to other games in the same genre                                         |
+| ⭐⭐⭐       | Decent quality compared to other games in the same genre.                                         |
 | ⭐⭐⭐⭐      | Entertaining, has replayability.                                                                 |
 | ⭐⭐⭐⭐⭐     | Masterpiece that you need to play before you die, can be replayed constantly. Usually GOTY winners with a good story. |
 
@@ -21,6 +21,7 @@
 - There has been a lot of negativity whenever a new 5v5/Hero-shooter/Battle Royale shows up.
 - Gamers don't like when there are blatant wokeness/politics in their games.
 - Gamers will not play your game if the character design is intentionally ugly.
+- Pay2Win is unacceptable in 2024. Mobile gacha games rely on this but sometimes it's fair enough that the game won't close after 1 month.
 
 
 ## Steam
