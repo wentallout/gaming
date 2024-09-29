@@ -102,15 +102,7 @@ I play both indie and AAA games. PC is the main platform but Android games are a
 
 ## 🚮 Rejected
 
-- Samurai Maiden 🚮
-- Tunguska: The Visitation 🚮
-- Far Cry 4 🚮 → can't install mods
-- Nioh 2  🚮 → Weird map design lead to path finding problems.
-- Dead Cells  🚮 → tedious
-- Code Vein  🚮 → tedious, horrible map design.
-- Genshin Impact  🚮 → tedious, Pay2Win.
-- Fortnite  🚮 → great if you have nothing to play
-- Valorant  🚮 → toxic and competitive, great if your PC is from 2007.
+
 
 ## 🪩 Retro
 
