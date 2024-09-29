@@ -102,6 +102,7 @@ I play both indie and AAA games. PC is the main platform but Android games are a
 
 ## 🚮 Rejected
 
+- Samurai Maiden 🚮
 - Tunguska: The Visitation 🚮
 - Far Cry 4 🚮 → can't install mods
 - Nioh 2  🚮 → Weird map design lead to path finding problems.
