@@ -102,7 +102,7 @@ I play both indie and AAA games. PC is the main platform but Android games are a
 
 ## 🚮 Rejected
 
-
+Bad games go here: https://github.com/wentallout/gaming/wiki/Rejected
 
 ## 🪩 Retro
 
