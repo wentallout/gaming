@@ -36,42 +36,44 @@ I prioritize **replayability** when selecting games, as it's the key factor that
 
 ## 🏁 Completed
 
-- V-Rising: ⭐⭐⭐⭐ → executed correctly in the genre, good combat, interesting vampire-theme, running speed is a little bit too slow.
-- Granblue Fantasy: Relink ⭐⭐⭐⭐⭐ → Satisfying, smooth combat and movement.
-- CONTROL  ⭐⭐⭐⭐⭐ → a modern masterpiece, unique story, fantastic special effects, decent music, fun gameplay but repetitive due to limited combat options (only throw is good)
-- Hades  ⭐⭐⭐⭐⭐ → **GOTY**, incredible story, voice acting and music, fun replayable gameplay with random upgrades, top tier rogue-like.
-- Hades 2  ⭐⭐⭐⭐⭐ → Another masterpiece like Hades 1, great voice acting and story
-- God of War ⭐⭐⭐⭐⭐ → **GOTY**, deep father-son story, exciting and cinematic combat.
-- Devil May Cry 5 ⭐⭐⭐⭐ → I mostly play Vergil, other characters require too much input to work well
-- Shadow Warrior 3 ⭐ → lil bit lackluster, compared to 2th might be a step down
-- The Outer World (Obsidian Entertainment) ⭐⭐⭐⭐⭐ → better than most space game I've seen, great story, gameplay is smooth and chill
-- Wolfenstein: The New Order  ⭐⭐⭐
-- Resident Evil 6, Resident Evil 2 remake, Resident Evil 7  ⭐⭐⭐ → overrated but fun I guess
-- Dying Light  ⭐⭐⭐⭐⭐ → great physics, generic zombie story but still interesting, great parkour movement, gunplay feels good
-- Trepang2  ⭐⭐⭐ - great physics and gunfight, let players do amazing slowmo constantly. very F.E.A.R
-- Risk of Rain 1, Risk of Rain 2  ⭐⭐⭐⭐ - great music, high replayability
-- ULTRAKILL ⭐⭐⭐⭐⭐ → very fast-paced gameplay, all sorts of wacky guns and tricks, graphics is simple, low-poly, bosses are aggressive. 
-- BioShock Infinite ⭐⭐⭐⭐ → old masterpiece, story might be confusing, top tier gun combat
-- Yakuza Kiwami, Yakuza: Like a Dragon ⭐⭐⭐⭐⭐ → **GOTY**
-- Katana ZERO  ⭐⭐⭐⭐ → amazing game but too short, great story, fast and impactful combat, needs trial-and-error to beat difficult stage
-- Hotline Miami 1,2  ⭐⭐⭐⭐⭐ → violent and fast combat, bossing is weird, fantastic music, needs trial-and-error to beat difficult stage
-- Dishonored 1,2  ⭐⭐⭐⭐ → king of stealth games, needs trial-and-error to clear stages, very skill-demanding
-- Borderlands 1,2,3  ⭐⭐⭐ → king of looter-shooter genre, gets repetitive at the end
-- Doom (2016), Doom Eternal  ⭐⭐⭐⭐⭐ → **GOTY**, top tier metal/eletronic music, brutal combat, makes you feel badass.
-- Remnant 2  ⭐ → overrated, movement is sluggish.
-- DYNASTY WARRIORS 8: Xtreme Legends ⭐⭐
-- Half-Life 2  ⭐⭐⭐⭐ → old masterpiece, great physics and story, gameplay and sound is a little outdated.
+| Game                                      | Rating    | Notes                                                                                   |
+|-------------------------------------------|-----------|-----------------------------------------------------------------------------------------|
+| V-Rising                                  | ⭐⭐⭐⭐      | Executed correctly in the genre, good combat, interesting vampire-theme, slow running speed. |
+| Granblue Fantasy: Relink                  | ⭐⭐⭐⭐⭐     | Satisfying, smooth combat and movement.                                                  |
+| CONTROL                                   | ⭐⭐⭐⭐⭐     | Modern masterpiece, unique story, fantastic special effects, repetitive combat options.   |
+| Hades                                     | ⭐⭐⭐⭐⭐     | GOTY, incredible story, voice acting, music, replayable gameplay, top-tier rogue-like.    |
+| Hades 2                                   | ⭐⭐⭐⭐⭐     | Another masterpiece like Hades 1, great voice acting and story.                          |
+| God of War                                | ⭐⭐⭐⭐⭐     | GOTY, deep father-son story, exciting and cinematic combat.                              |
+| Devil May Cry 5                           | ⭐⭐⭐⭐      | Mostly play Vergil, other characters require too much input to work well.                |
+| Shadow Warrior 3                          | ⭐         | Lackluster, step down compared to 2nd.                                                   |
+| The Outer Worlds (Obsidian Entertainment) | ⭐⭐⭐⭐⭐     | Better than most space games, great story, smooth and chill gameplay.                    |
+| Wolfenstein: The New Order                | ⭐⭐⭐       | -                                                                                       |
+| Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 | ⭐⭐⭐ | Overrated but fun I guess.                                                              |
+| Dying Light                               | ⭐⭐⭐⭐⭐     | Great physics, generic zombie story but interesting, good parkour and gunplay.           |
+| Trepang2                                  | ⭐⭐⭐       | Great physics and gunfight, allows slow-mo action, very F.E.A.R.-like.                   |
+| Risk of Rain 1, Risk of Rain 2            | ⭐⭐⭐⭐      | Great music, high replayability.                                                        |
+| ULTRAKILL                                 | ⭐⭐⭐⭐⭐     | Fast-paced gameplay, wacky guns, simple low-poly graphics, aggressive bosses.            |
+| BioShock Infinite                         | ⭐⭐⭐⭐      | Old masterpiece, confusing story, top-tier gun combat.                                   |
+| Yakuza Kiwami, Yakuza: Like a Dragon      | ⭐⭐⭐⭐⭐     | GOTY.                                                                                   |
+| Katana ZERO                               | ⭐⭐⭐⭐      | Amazing but short, great story, fast impactful combat, trial-and-error gameplay.         |
+| Hotline Miami 1, 2                        | ⭐⭐⭐⭐⭐     | Violent fast combat, weird bosses, fantastic music, trial-and-error gameplay.            |
+| Dishonored 1, 2                           | ⭐⭐⭐⭐      | King of stealth games, trial-and-error, skill-demanding.                                 |
+| Borderlands 1, 2, 3                       | ⭐⭐⭐       | King of looter-shooter, repetitive by the end.                                           |
+| Doom (2016), Doom Eternal                 | ⭐⭐⭐⭐⭐     | GOTY, top-tier music, brutal combat, makes you feel badass.                              |
+| Remnant 2                                 | ⭐         | Overrated, sluggish movement.                                                           |
+| DYNASTY WARRIORS 8: Xtreme Legends        | ⭐⭐        | -                                                                                       |
+| Half-Life 2                               | ⭐⭐⭐⭐      | Old masterpiece, great physics and story, outdated sound and gameplay.                   |
+| OTXO                                      | ⭐⭐⭐       | Hotline Miami with rogue-like features, not bad.                                         |
+| Enter the Gungeon                         | ⭐⭐⭐       | A little too hard, repetitive gameplay, fun guns don't come easily.                      |
+| Ys IX: Monstrum Nox                       | ⭐⭐⭐       | -                                                                                       |
+| Skul: The Hero Slayer                     | ⭐⭐⭐       | Roguelike-action platformer, cute skeleton, high replayability.                          |
+| Bayonetta 1, 2, 3                         | ⭐⭐⭐⭐      | Great hack 'n' slash, deep combat but easy to pick up.                                   |
+| Need for Speed™ Most Wanted               | ⭐⭐⭐       | Classic, great police chases, captures the feeling of speed.                             |
+| Terraria                                  | ⭐⭐⭐       | -                                                                                       |
+| Cave Story+                               | ⭐⭐⭐       | -                                                                                       |
+| Touhou Series                             | ⭐⭐⭐       | -                                                                                       |
+| Tomb Raider, Rise of the Tomb Raider, Shadow of the Tomb Raider | ⭐⭐⭐⭐⭐ | First game is epic, last might be "meh" for some people.                                |
 
-- OTXO  ⭐⭐⭐ → hotline miami with rogue-like features, not bad
-- Enter the Gungeon  ⭐⭐⭐ → a little bit too hard for my taste, repetitive gameplay, fun guns don't come easily
-- Ys IX: Monstrum Nox  ⭐⭐⭐
-- Skul: The Hero Slayer  ⭐⭐⭐ →  roguelike-action platformer that lets you control a cute skeleton that can swap heads to get different abilities and skill sets, high replayability
-- Bayonnetta 1,2,3 ⭐⭐⭐⭐ → great hack n slash alternative to DMC, deep combat system but easy to pick up
-- Need for Speed™ Most Wanted ⭐⭐⭐ → true classic of the 2K era, racing outlaws, hot girls, great police radio and chase, make players feel the speed correctly
-- Terraria  ⭐⭐⭐
-- Cave Story+  ⭐⭐⭐
-- Touhou Series  ⭐⭐⭐
-- Tomb Raider, Rise of the Tomb Raider, Shadow of the Tomb Raider  ⭐⭐⭐⭐⭐ → first game is epic, last game might be "meh" for some people
 
 ## 🔥 Need to play more to fully rank
 
