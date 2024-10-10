@@ -95,21 +95,6 @@ I prioritize **replayability** when selecting games, as it's the key factor that
 
 Bad games go here: https://github.com/wentallout/gaming/wiki/Rejected
 
-## 🪩 Retro
-
-Can't rank, mostly for nostalgia.
-
-- Metal Slug 3 (2000) 
-- Metal Slug 5 (2004)
-- Aero Fighters 2
-- Shock Troopers
-- Blazing Star (1998)
-- WindJammers (1994)
-- Neo Bomberman (1997)
-- Top Hunter: Roddy & Cathy (1994)
-- Spinmaster (1993)
-
-
 ## Why Concord failed?
 
 Concord, a $200M game from Sony, launched on August 23, 2024, but failed spectacularly, shutting down just 12 days later due to critical flaws.
