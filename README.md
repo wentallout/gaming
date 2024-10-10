@@ -24,17 +24,10 @@ I prioritize **replayability** when selecting games, as it's the key factor that
 |------------|-------------------------------------------------------------------------------------------------|
 | 🚮         | Not worth the time.                                                                                                      |
 | ⭐         | has too many flaws or has no replayability => uninstall early.                            |
-| ⭐⭐        | does deliver what the genre demands but not polished. => uninstall early.     |
+| ⭐⭐        | does deliver what the genre demands but not polished or lack innovation. => uninstall early.     |
 | ⭐⭐⭐       | High quality compared to other games in the same genre. => uninstall after finishing.   |
 | ⭐⭐⭐⭐      | Entertaining, has replayability. => keep                                                                                     |
 | ⭐⭐⭐⭐⭐     | Masterpiece that you need to play before you die, can be replayed constantly. => keep |
-
-## Trends in modern video games
-
-- There has been a lot of negativity whenever a new 5v5/Hero-shooter/Battle Royale shows up.
-- Gamers don't like when there are blatant wokeness/politics in their games.
-- Gamers will not play your game if the character design is intentionally ugly (example: Concord).
-- Pay2Win is unacceptable in 2024. Mobile gacha games rely heavily on this but sometimes its design is fair enough that the game won't be closed after 1 month.
 
 ## 📱 Mobile
 
