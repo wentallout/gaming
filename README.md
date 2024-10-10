@@ -119,6 +119,28 @@ Can't rank, mostly for nostalgia.
 - Spinmaster (1993)
 
 
+## Why Concord failed?
+
+Concord, a $200M game from Sony, launched on August 23, 2024, but failed spectacularly, shutting down just 12 days later due to critical flaws.
+
+Highlights
+- 🚀 Launch Failure: Concord had less than 700 players on day one, dropping below 100 by day ten.
+- 📉 Unprecedented Cancellation: Sony announced the game’s termination 12 days post-launch, marking a record for AAA game lifespan.
+- 💰 Massive Budget: The game had a staggering $200 million budget, exceeding many blockbuster films’ costs.
+- 🎮 Market Misalignment: Launched into a saturated hero shooter market, Concord offered nothing new to stand out.
+- 🔄 Development Delays: Eight years of development led to outdated technology and missed market trends.
+- 💔 Character Design Crisis: Characters were criticized for being generic and unappealing, failing to connect with players.
+- 💸 Pricing Miscalculation: A $40 price tag in a free-to-play market proved to be a significant barrier to entry.
+Key Insights
+- 🚧 Market Myopia: Concord’s developers ignored the oversaturated hero shooter market, lacking a unique selling point to attract players. This resulted in poor visibility and interest.
+- ⏳ Prolonged Development Risks: The eight-year development cycle led to technological stagnation and missed opportunities to innovate, ultimately resulting in a product that felt outdated and irrelevant.
+- 🎭 Character Appeal: Characters should resonate with players through unique personalities and visual designs. Concord’s failure to create memorable characters contributed to its lack of engagement.
+- 💵 Budget Allocation: Misallocation of the $200 million budget focused on flashy cinematics rather than core gameplay elements, failing to enhance player experience.
+- 📊 Inflexible Pricing Strategy: By charging $40 in a market dominated by free-to-play titles, Concord misjudged player expectations, leading to low initial engagement.
+- 📣 Ineffective Marketing: A last-minute marketing approach failed to build community excitement or generate awareness, resulting in poor pre-launch buzz.
+- 🧨 Legacy Pressure: The developers’ past successes created unrealistic expectations, leading to a game that couldn’t meet industry standards or innovate effectively.
+
+
 ## History of video games
 
 https://en.wikibooks.org/wiki/History_of_video_games
