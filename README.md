@@ -13,13 +13,6 @@ I play both indie and AAA games. PC is the main platform but Android games are a
 
 I prioritize **replayability** when selecting games, as it's the key factor that keeps me engaged. Games with depth in replayability, like “Elden Ring,” offer new experiences each time, while others compensate with strong narratives or unique modes. Ultimately, the ability to return to a game repeatedly determines its quality and staying power in my library.
 
-- Core Features: Focus on how well the game executes its main mechanics and meets genre expectations.
-- Graphics: high-end visuals are not too important, unless graphics are crucial to the experience.
-- Sound and Art: Assess whether the music, sound effects, and art style enhance the mood and immersion.
-- UX Problems: Evaluate ease of use, accessibility, and whether minor UX issues disrupt gameplay.
-- Replayability: Consider the variety of modes, player choices, and content updates that encourage multiple playthroughs.
-- Technical Performance: Ensure smooth performance, minimal bugs, and good optimization across platforms.
-
 | Rating     | Description                                                                                     |
 |------------|-------------------------------------------------------------------------------------------------|
 | 🚮         | Not worth the time.                                                                                                      |
