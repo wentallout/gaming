@@ -9,19 +9,25 @@ I play both indie and AAA games. PC is the main platform but Android games are a
 
 ## Ranking explanation
 
-- The most important quality of a good video game is how it deliver its most important features. Example: Combat games need to have deep combat, puzzle games need to be satisfying.
-- I do not use graphics to measure good games.
-- Good music/sound and unique art style always enhance video games.
-- UX problems do exist on high quality games => will ignore unless it's too annoying.
+[What makes a good video game](https://dailytrojan.com/2023/01/27/free-play-what-makes-a-good-video-game/)
+
+I prioritize **replayability** when selecting games, as it's the key factor that keeps me engaged. Games with depth in replayability, like “Elden Ring,” offer new experiences each time, while others compensate with strong narratives or unique modes. Ultimately, the ability to return to a game repeatedly determines its quality and staying power in my library.
+
+- Core Features: Focus on how well the game executes its main mechanics and meets genre expectations.
+- Graphics: high-end visuals are not too important, unless graphics are crucial to the experience.
+- Sound and Art: Assess whether the music, sound effects, and art style enhance the mood and immersion.
+- UX Problems: Evaluate ease of use, accessibility, and whether minor UX issues disrupt gameplay.
+- Replayability: Consider the variety of modes, player choices, and content updates that encourage multiple playthroughs.
+- Technical Performance: Ensure smooth performance, minimal bugs, and good optimization across platforms.
 
 | Rating     | Description                                                                                     |
 |------------|-------------------------------------------------------------------------------------------------|
 | 🚮         | Not worth the time.                                                                                                      |
-| ⭐         | Playable but has too many flaws, overrated, or has no replayability => might uninstall early.                            |
-| ⭐⭐        | Playable but not polished enough, has potential, does deliver what the genre demands. => might uninstall but only after finishing.     |
-| ⭐⭐⭐       | Decent quality compared to other games in the same genre.                                                             |
-| ⭐⭐⭐⭐      | Entertaining, has replayability.                                                                                     |
-| ⭐⭐⭐⭐⭐     | Masterpiece that you need to play before you die, can be replayed constantly. Usually GOTY winners with a good story. |
+| ⭐         | has too many flaws or has no replayability => uninstall early.                            |
+| ⭐⭐        | does deliver what the genre demands but not polished. => uninstall early.     |
+| ⭐⭐⭐       | High quality compared to other games in the same genre. => uninstall after finishing.   |
+| ⭐⭐⭐⭐      | Entertaining, has replayability. => keep                                                                                     |
+| ⭐⭐⭐⭐⭐     | Masterpiece that you need to play before you die, can be replayed constantly. => keep |
 
 ## Trends in modern video games
 
