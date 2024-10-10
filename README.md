@@ -32,7 +32,7 @@ I prioritize **replayability** when selecting games, as it's the key factor that
 - Warframe ⭐⭐⭐⭐⭐ → Space ninjas, fair game, a lot less Pay2Win, fast/smooth movement, a lot of customizations and builds, great community
 - MapleStory  ⭐⭐⭐ → too many classes, highly dependent on tier list, gearing can be problematic due to high cost from cubing/star force. Fun game but the grind is not for everyone. Highly recommend playing on Reboot to avoid Pay2Win
 - The Finals  ⭐⭐⭐⭐ →  very innovative with destructible buildings, interesting game modes and maps, suffered from cheaters like most FPS.
-- Counter Strike 2 / CS:GO  ⭐ → not casual friendly, mostly appeal to older players who gamble for expensive skins, knives, etc.
+- Counter Strike 2 / CS:GO  ⭐⭐⭐⭐ → not casual friendly, mostly appeal to older players who gamble for expensive skins, knives, etc.
 
 ## 🏁 Completed
 
@@ -44,11 +44,11 @@ I prioritize **replayability** when selecting games, as it's the key factor that
 | Hades                                     | ⭐⭐⭐⭐⭐     | GOTY, incredible story, voice acting, music, replayable gameplay, top-tier rogue-like.    |
 | Hades 2                                   | ⭐⭐⭐⭐⭐     | Another masterpiece like Hades 1, great voice acting and story.                          |
 | God of War                                | ⭐⭐⭐⭐⭐     | GOTY, deep father-son story, exciting and cinematic combat.                              |
-| Devil May Cry 5                           | ⭐⭐⭐⭐      | Mostly play Vergil, other characters require too much input to work well.                |
+| Devil May Cry 5                           | ⭐⭐⭐⭐      | Mostly play Vergil, other characters require too much input to work well.             |
 | Shadow Warrior 3                          | ⭐         | Lackluster, step down compared to 2nd.                                                   |
-| The Outer Worlds (Obsidian Entertainment) | ⭐⭐⭐⭐⭐     | Better than most space games, great story, smooth and chill gameplay.                    |
+| The Outer Worlds (Obsidian Entertainment) | ⭐⭐⭐⭐⭐     | Better than most space games, great story, smooth and chill gameplay.                |
 | Wolfenstein: The New Order                | ⭐⭐⭐       | -                                                                                       |
-| Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 | ⭐⭐⭐ | Overrated but fun I guess.                                                              |
+| Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 | ⭐⭐⭐ | Overrated but fun I guess.                                                         |
 | Dying Light                               | ⭐⭐⭐⭐⭐     | Great physics, generic zombie story but interesting, good parkour and gunplay.           |
 | Trepang2                                  | ⭐⭐⭐       | Great physics and gunfight, allows slow-mo action, very F.E.A.R.-like.                   |
 | Risk of Rain 1, Risk of Rain 2            | ⭐⭐⭐⭐      | Great music, high replayability.                                                        |
@@ -59,7 +59,7 @@ I prioritize **replayability** when selecting games, as it's the key factor that
 | Hotline Miami 1, 2                        | ⭐⭐⭐⭐⭐     | Violent fast combat, weird bosses, fantastic music, trial-and-error gameplay.            |
 | Dishonored 1, 2                           | ⭐⭐⭐⭐      | King of stealth games, trial-and-error, skill-demanding.                                 |
 | Borderlands 1, 2, 3                       | ⭐⭐⭐       | King of looter-shooter, repetitive by the end.                                           |
-| Doom (2016), Doom Eternal                 | ⭐⭐⭐⭐⭐     | GOTY, top-tier music, brutal combat, makes you feel badass.                              |
+| Doom (2016), Doom Eternal                 | ⭐⭐⭐⭐⭐     | GOTY, top-tier music, brutal combat, makes you feel badass.                           |
 | Remnant 2                                 | ⭐         | Overrated, sluggish movement.                                                           |
 | DYNASTY WARRIORS 8: Xtreme Legends        | ⭐⭐        | -                                                                                       |
 | Half-Life 2                               | ⭐⭐⭐⭐      | Old masterpiece, great physics and story, outdated sound and gameplay.                   |
@@ -72,27 +72,24 @@ I prioritize **replayability** when selecting games, as it's the key factor that
 | Terraria                                  | ⭐⭐⭐       | -                                                                                       |
 | Cave Story+                               | ⭐⭐⭐       | -                                                                                       |
 | Touhou Series                             | ⭐⭐⭐       | -                                                                                       |
-| Tomb Raider, Rise of the Tomb Raider, Shadow of the Tomb Raider | ⭐⭐⭐⭐⭐ | First game is epic, last might be "meh" for some people.                                |
+| Tomb Raider, Rise of the Tomb Raider, Shadow of the Tomb Raider | ⭐⭐⭐⭐⭐ | First game is epic, last might be "meh" for some people.          |
+| Red Dead Redemption 2    | ⭐⭐⭐⭐⭐ | Massive masterpiece, bought but didn't have time to play                                                 |
+| The Witcher 3: Wild Hunt | | |
+|  Wolfenstein II: The New Colossus | ? | ? |
+|  Deathloop | ? | ? |
+| God of War: Ragnarok | ⭐⭐⭐⭐ | ? |
+| Cyberpunk 2077 | | |
+| Superliminal  | | |
+| Viewfinder | | |
+| Nine Sols | ? | ? |
 
 
-## 🔥 Need to play more to fully rank
+## 🛠️ Games that require mods to be good
 
-- Red Dead Redemption 2  ⭐⭐⭐⭐⭐ → Massive masterpiece, bought but didn't have time to play
-- Wolfenstein II: The New Colossus  → not sure
-- Deathloop  → innovative story and ideas?
-- God of War: Ragnarok  ⭐⭐⭐⭐   might be a downgrade from the first GoW
-- The Witcher 3: Wild Hunt  ? →i n progress.
-- Cyberpunk 2077  ⭐⭐⭐⭐ → It seems to have been fixed after its horrible launch. Will look deeper.
-- Superliminal 
-- Viewfinder 
-- Nine Sols 
-
-## 🛠️ Mods required
-
-- Fallout: New Vegas  ⭐⭐⭐ → buggy, clunky animation and physics, still fun tho
-- The Elder Scrolls V: Skyrim Special Edition  ⭐⭐⭐ → prepare to download 100 mods just to fix bugs and performance issues
-- The Sims series ⭐ → not a fan, I'm not going through 10 steps just to install mods.
-- Minecraft  ⭐⭐⭐ → great game if you're in middle-school.
+- Fallout: New Vegas → buggy, clunky animation and physics, still fun tho
+- The Elder Scrolls V: Skyrim Special Edition → prepare to download 100 mods just to fix bugs and performance issues
+- The Sims series → not a fan, I'm not going through 10 steps just to install mods.
+- Minecraft
 
 ## 🚮 Rejected
 
