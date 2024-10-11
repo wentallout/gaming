@@ -26,12 +26,12 @@ I prioritize **replayability** when selecting games, as it's the key factor that
 
 | Game                                      | Rating    | Notes                                                                                   |
 |-------------------------------------------|-----------|-----------------------------------------------------------------------------------------|
-| Wild Rift (Mobile)                        |  ⭐⭐⭐  | fair game, only thing costs money are cosmetics, bad team will make you mad in public games |
-| Crusader Quest (Mobile) | ⭐⭐⭐⭐ | sursprisingly not Pay2Win, very well written story, engaging events, many heroes to choose and assemble into a 3-man team, innovative gameplay |
-| Warframe | ⭐⭐⭐⭐⭐ | fair game, a lot less Pay2Win, fast/smooth movement, a lot of customizations and builds, great community |
-| MapleStory | ⭐⭐ | repetitive, too many classes, highly dependent on tier list, gearing can be problematic due to high cost from cubing/star force. The grind is not for everyone. Highly recommend playing on Reboot to avoid Pay2Win |
-| The Finals | ⭐⭐⭐⭐ | very innovative with destructible buildings, interesting game modes and maps, suffered from cheaters like most FPS.|
-| Counter Strike 2 / CS:GO | ⭐⭐⭐⭐ | not casual friendly, mostly appeal to older players who gamble for expensive skins, knives, etc. |
+| Wild Rift (Mobile)                        |  ⭐⭐⭐  | mobile version of League of Legends, kinda fair game since most things that costs money are cosmetics. |
+| Crusader Quest (Mobile)                   | ⭐⭐⭐⭐ | sursprisingly not Pay2Win, very well written story, engaging events, many heroes to choose and assemble into a 3-man team, innovative gameplay |
+| Warframe                                  | ⭐⭐⭐⭐⭐ | fair game, a lot less Pay2Win, fast/smooth movement, a lot of customizations and builds, great community |
+| MapleStory                                | ⭐⭐ | repetitive, too many classes, highly dependent on tier list, gearing can be problematic due to high cost from cubing/star force. The grind is not for everyone. Highly recommend playing on Reboot to avoid Pay2Win |
+| The Finals                                | ⭐⭐⭐⭐ | very innovative with destructible buildings, interesting game modes and maps, suffered from cheaters like most FPS.|
+| Counter Strike 2 / CS:GO                  | ⭐⭐⭐⭐ | not casual friendly, mostly appeal to older players who gamble for expensive skins, knives, etc. |
 
 
 ## 🏁 Completed
