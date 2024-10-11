@@ -83,18 +83,6 @@ I prioritize **replayability** when selecting games, as it's the key factor that
 | Viewfinder | | |
 | Nine Sols | ? | ? |
 
-
-## 🛠️ Games that require mods to be good
-
-- Fallout: New Vegas → buggy, clunky animation and physics, still fun tho
-- The Elder Scrolls V: Skyrim Special Edition → prepare to download 100 mods just to fix bugs and performance issues
-- The Sims series → not a fan, I'm not going through 10 steps just to install mods.
-- Minecraft
-
-## 🚮 Rejected
-
-Bad games go here: https://github.com/wentallout/gaming/wiki/Rejected
-
 ## Why Concord failed?
 
 Concord, a $200M game from Sony, launched on August 23, 2024, but failed spectacularly, shutting down just 12 days later due to critical flaws.
@@ -116,8 +104,8 @@ Key Insights
 - 📣 Ineffective Marketing: A last-minute marketing approach failed to build community excitement or generate awareness, resulting in poor pre-launch buzz.
 - 🧨 Legacy Pressure: The developers’ past successes created unrealistic expectations, leading to a game that couldn’t meet industry standards or innovate effectively.
 
+## Other
 
-## History of video games
-
-https://en.wikibooks.org/wiki/History_of_video_games
-
+- [Games that require mods to be good](https://github.com/wentallout/gaming/wiki/Games-that-require-mods)
+- 🚮 [Games that I rejected](https://github.com/wentallout/gaming/wiki/Rejected)
+- [History of video games](https://en.wikibooks.org/wiki/History_of_video_games)
