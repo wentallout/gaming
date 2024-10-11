@@ -22,17 +22,17 @@ I prioritize **replayability** when selecting games, as it's the key factor that
 | ⭐⭐⭐⭐      | Entertaining, has replayability. => keep                                                                                     |
 | ⭐⭐⭐⭐⭐     | Masterpiece that you need to play before you die, can be replayed constantly. => keep |
 
-## 📱 Mobile
-
-- Wild Rift (Mobile) ⭐⭐⭐ → fair game, only thing costs money are cosmetics, bad team will make you mad in public games
-- Crusader Quest (Mobile) ⭐⭐⭐⭐ → not Pay2Win, very well written story, decent events, many heroes to choose and assemble into a 3-man team, innovative gameplay
-
 ## 👯 Multiplayer
 
-- Warframe ⭐⭐⭐⭐⭐ → Space ninjas, fair game, a lot less Pay2Win, fast/smooth movement, a lot of customizations and builds, great community
-- MapleStory  ⭐⭐⭐ → too many classes, highly dependent on tier list, gearing can be problematic due to high cost from cubing/star force. Fun game but the grind is not for everyone. Highly recommend playing on Reboot to avoid Pay2Win
-- The Finals  ⭐⭐⭐⭐ →  very innovative with destructible buildings, interesting game modes and maps, suffered from cheaters like most FPS.
-- Counter Strike 2 / CS:GO  ⭐⭐⭐⭐ → not casual friendly, mostly appeal to older players who gamble for expensive skins, knives, etc.
+| Game                                      | Rating    | Notes                                                                                   |
+|-------------------------------------------|-----------|-----------------------------------------------------------------------------------------|
+| Wild Rift (Mobile)                        |  ⭐⭐⭐  | fair game, only thing costs money are cosmetics, bad team will make you mad in public games |
+| Crusader Quest (Mobile) | ⭐⭐⭐⭐ | sursprisingly not Pay2Win, very well written story, engaging events, many heroes to choose and assemble into a 3-man team, innovative gameplay |
+| Warframe | ⭐⭐⭐⭐⭐ | fair game, a lot less Pay2Win, fast/smooth movement, a lot of customizations and builds, great community |
+| MapleStory | ⭐⭐ | repetitive, too many classes, highly dependent on tier list, gearing can be problematic due to high cost from cubing/star force. The grind is not for everyone. Highly recommend playing on Reboot to avoid Pay2Win |
+| The Finals | ⭐⭐⭐⭐ | very innovative with destructible buildings, interesting game modes and maps, suffered from cheaters like most FPS.|
+| Counter Strike 2 / CS:GO | ⭐⭐⭐⭐ | not casual friendly, mostly appeal to older players who gamble for expensive skins, knives, etc. |
+
 
 ## 🏁 Completed
 
@@ -44,8 +44,8 @@ I prioritize **replayability** when selecting games, as it's the key factor that
 | Hades                                     | ⭐⭐⭐⭐⭐     | GOTY, incredible story, voice acting, music, replayable gameplay, top-tier rogue-like.    |
 | Hades 2                                   | ⭐⭐⭐⭐⭐     | Another masterpiece like Hades 1, great voice acting and story.                          |
 | God of War                                | ⭐⭐⭐⭐⭐     | GOTY, deep father-son story, exciting and cinematic combat.                              |
-| Devil May Cry 5                           | ⭐⭐⭐⭐      | Mostly play Vergil, other characters require too much input to work well.             |
-| Shadow Warrior 3                          | ⭐         | Lackluster, step down compared to 2nd.                                                   |
+| Devil May Cry 5                           | ⭐⭐⭐⭐        | Mostly play Vergil, other characters require too much input to work well.             |
+| Shadow Warrior 3                          | ⭐                | Lackluster, step down compared to 2nd.                                                   |
 | The Outer Worlds (Obsidian Entertainment) | ⭐⭐⭐⭐⭐     | Better than most space games, great story, smooth and chill gameplay.                |
 | Wolfenstein: The New Order                | ⭐⭐⭐       | -                                                                                       |
 | Resident Evil 6, Resident Evil 2 remake, Resident Evil 7 | ⭐⭐⭐ | Overrated but fun I guess.                                                         |
